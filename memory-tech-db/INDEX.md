@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 11,464**
+**TOTAL WORD COUNT: 14,655**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -10,7 +10,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [01-overview/01-memory-storage-fundamentals.md](01-overview/01-memory-storage-fundamentals.md) | 3,000 | Draft | 3,201 | Core cell structures, hierarchy economics, SRAM/DRAM/NAND/NOR/emerging memory taxonomy. |
 | [01-overview/02-market-size-segmentation.md](01-overview/02-market-size-segmentation.md) | 2,500 | Draft | 2,629 | TAM/SAM, vendor revenue share, cycle history, shortage outlook. |
 | [02-history/01-dram-evolution.md](02-history/01-dram-evolution.md) | 3,000 | Draft | 3,001 | SDRAM to DDR5, LPDDR, HBM branch, and vendor node naming. |
-| [02-history/02-nand-evolution.md](02-history/02-nand-evolution.md) | 3,000 | Not Started | 0 | Planar to 3D NAND, SLC to PLC, layer scaling. |
+| [02-history/02-nand-evolution.md](02-history/02-nand-evolution.md) | 3,000 | Draft | 3,020 | Planar to 3D NAND, SLC to PLC, layer scaling, controllers, semicap intensity. |
 | [02-history/03-packaging-evolution.md](02-history/03-packaging-evolution.md) | 3,000 | Not Started | 0 | Wire bond, TSV, hybrid bonding, chiplets. |
 | [03-hbm-deep-dive/01-hbm-fundamentals.md](03-hbm-deep-dive/01-hbm-fundamentals.md) | 3,000 | Not Started | 0 | Base die, DRAM stacks, TSVs, bandwidth per watt. |
 | [03-hbm-deep-dive/02-hbm-generations.md](03-hbm-deep-dive/02-hbm-generations.md) | 3,500 | Not Started | 0 | HBM1 through HBM5 table and production timeline. |
