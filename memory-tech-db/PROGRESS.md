@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 25,040 words**
+**Running database total: 29,999 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -13,9 +13,10 @@
 | 2026-07-04 | 02-history/03-packaging-evolution.md | Wire bond, flip chip, TSV, 2.5D interposers, EMIB, hybrid bonding, chiplets, packaging bottlenecks. | 3,258 | 18,158 | Draft |
 | 2026-07-04 | 03-hbm-deep-dive/01-hbm-fundamentals.md | HBM stack anatomy, base die, TSV/channel architecture, bandwidth-per-watt evolution, stack yield, interposer bottleneck, qualification economics. | 3,171 | 21,433 | Draft |
 | 2026-07-04 | 03-hbm-deep-dive/02-hbm-generations.md | HBM1-HBM5 generation table, production timeline, HBM2E/HBM3E bridges, HBM4/SPHBM4 integration, HBM5 thermal roadmap. | 3,511 | 25,040 | Draft |
+| 2026-07-04 | 03-hbm-deep-dive/03-hbm-vendor-roadmaps.md | SK hynix, Samsung, and Micron HBM fab, packaging, base-die, qualification, and capacity roadmap with cross-vendor Gantt. | 4,594 | 29,999 | Draft |
 
 ## Resume State
 
-Next file to begin: `03-hbm-deep-dive/03-hbm-vendor-roadmaps.md`.
+Next file to begin: `03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md`.
 
-Known work remaining before review pass: continue through `03-hbm-deep-dive/03-hbm-vendor-roadmaps.md`, then `03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md`, then `03-hbm-deep-dive/05-hbm-customer-ecosystem.md`, and refresh `SOURCES.md` after each new factual source is introduced.
