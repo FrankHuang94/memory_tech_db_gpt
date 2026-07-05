@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 29,999 words**
+**Running database total: 33,823 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -14,9 +14,10 @@
 | 2026-07-04 | 03-hbm-deep-dive/01-hbm-fundamentals.md | HBM stack anatomy, base die, TSV/channel architecture, bandwidth-per-watt evolution, stack yield, interposer bottleneck, qualification economics. | 3,171 | 21,433 | Draft |
 | 2026-07-04 | 03-hbm-deep-dive/02-hbm-generations.md | HBM1-HBM5 generation table, production timeline, HBM2E/HBM3E bridges, HBM4/SPHBM4 integration, HBM5 thermal roadmap. | 3,511 | 25,040 | Draft |
 | 2026-07-04 | 03-hbm-deep-dive/03-hbm-vendor-roadmaps.md | SK hynix, Samsung, and Micron HBM fab, packaging, base-die, qualification, and capacity roadmap with cross-vendor Gantt. | 4,594 | 29,999 | Draft |
+| 2026-07-04 | 03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md | HBM patent/IP landscape covering TSV, base die, scheduling, thermal packaging, trade secrets, and representative Samsung/SK hynix/Micron families. | 3,583 | 33,823 | Draft |
 
 ## Resume State
 
-Next file to begin: `03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md`.
+Next file to begin: `03-hbm-deep-dive/05-hbm-customer-ecosystem.md`.
 
-Known work remaining before review pass: continue through `03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md`, then `03-hbm-deep-dive/05-hbm-customer-ecosystem.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `03-hbm-deep-dive/05-hbm-customer-ecosystem.md`, then `04-hbf-emerging-tech/01-hbf-overview.md`, and refresh `SOURCES.md` after each new factual source is introduced.

@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 29,999**
+**TOTAL WORD COUNT: 33,823**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -15,7 +15,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [03-hbm-deep-dive/01-hbm-fundamentals.md](03-hbm-deep-dive/01-hbm-fundamentals.md) | 3,000 | Draft | 3,171 | Base die, DRAM stacks, TSVs, bandwidth per watt, stack yield, platform qualification. |
 | [03-hbm-deep-dive/02-hbm-generations.md](03-hbm-deep-dive/02-hbm-generations.md) | 3,500 | Draft | 3,511 | HBM1 through HBM5 table, production timeline, HBM4/SPHBM4/HBM5 roadmap caveats. |
 | [03-hbm-deep-dive/03-hbm-vendor-roadmaps.md](03-hbm-deep-dive/03-hbm-vendor-roadmaps.md) | 4,500 | Draft | 4,594 | SK hynix, Samsung, Micron fab and packaging roadmaps with cross-vendor Gantt. |
-| [03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md](03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md) | 3,500 | Not Started | 0 | TSV and hybrid bonding patent families. |
+| [03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md](03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md) | 3,500 | Draft | 3,583 | TSV, base-die, thermal, packaging, and system-level patent/IP families. |
 | [03-hbm-deep-dive/05-hbm-customer-ecosystem.md](03-hbm-deep-dive/05-hbm-customer-ecosystem.md) | 3,000 | Not Started | 0 | NVIDIA, AMD, Google TPU, custom HBM models. |
 | [04-hbf-emerging-tech/01-hbf-overview.md](04-hbf-emerging-tech/01-hbf-overview.md) | 3,000 | Not Started | 0 | HBF architecture and inference TCO. |
 | [04-hbf-emerging-tech/02-hbf-standardization.md](04-hbf-emerging-tech/02-hbf-standardization.md) | 3,000 | Not Started | 0 | OCP standardization, SanDisk Milpitas, BiCS9. |
