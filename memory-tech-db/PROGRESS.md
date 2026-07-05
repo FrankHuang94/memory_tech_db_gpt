@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 18,158 words**
+**Running database total: 21,433 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -11,9 +11,10 @@
 | 2026-07-04 | 02-history/01-dram-evolution.md | SDRAM through DDR5, LPDDR/GDDR/HBM branches, node naming by vendor, late-2020s roadmap. | 3,001 | 11,464 | Draft |
 | 2026-07-04 | 02-history/02-nand-evolution.md | Planar to 3D NAND, SLC/MLC/TLC/QLC/PLC tradeoffs, layer-count growth, controller boundary, semicap intensity. | 3,020 | 14,655 | Draft |
 | 2026-07-04 | 02-history/03-packaging-evolution.md | Wire bond, flip chip, TSV, 2.5D interposers, EMIB, hybrid bonding, chiplets, packaging bottlenecks. | 3,258 | 18,158 | Draft |
+| 2026-07-04 | 03-hbm-deep-dive/01-hbm-fundamentals.md | HBM stack anatomy, base die, TSV/channel architecture, bandwidth-per-watt evolution, stack yield, interposer bottleneck, qualification economics. | 3,171 | 21,433 | Draft |
 
 ## Resume State
 
-Next file to begin: `03-hbm-deep-dive/01-hbm-fundamentals.md`.
+Next file to begin: `03-hbm-deep-dive/02-hbm-generations.md`.
 
-Known work remaining before review pass: continue through `03-hbm-deep-dive/01-hbm-fundamentals.md`, then `03-hbm-deep-dive/02-hbm-generations.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `03-hbm-deep-dive/02-hbm-generations.md`, then `03-hbm-deep-dive/03-hbm-vendor-roadmaps.md`, and refresh `SOURCES.md` after each new factual source is introduced.
