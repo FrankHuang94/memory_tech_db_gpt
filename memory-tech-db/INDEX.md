@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 21,433**
+**TOTAL WORD COUNT: 25,040**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -13,7 +13,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [02-history/02-nand-evolution.md](02-history/02-nand-evolution.md) | 3,000 | Draft | 3,020 | Planar to 3D NAND, SLC to PLC, layer scaling, controllers, semicap intensity. |
 | [02-history/03-packaging-evolution.md](02-history/03-packaging-evolution.md) | 3,000 | Draft | 3,258 | Wire bond, flip chip, TSV, interposers, hybrid bonding, chiplets. |
 | [03-hbm-deep-dive/01-hbm-fundamentals.md](03-hbm-deep-dive/01-hbm-fundamentals.md) | 3,000 | Draft | 3,171 | Base die, DRAM stacks, TSVs, bandwidth per watt, stack yield, platform qualification. |
-| [03-hbm-deep-dive/02-hbm-generations.md](03-hbm-deep-dive/02-hbm-generations.md) | 3,500 | Not Started | 0 | HBM1 through HBM5 table and production timeline. |
+| [03-hbm-deep-dive/02-hbm-generations.md](03-hbm-deep-dive/02-hbm-generations.md) | 3,500 | Draft | 3,511 | HBM1 through HBM5 table, production timeline, HBM4/SPHBM4/HBM5 roadmap caveats. |
 | [03-hbm-deep-dive/03-hbm-vendor-roadmaps.md](03-hbm-deep-dive/03-hbm-vendor-roadmaps.md) | 4,500 | Not Started | 0 | SK hynix, Samsung, Micron fab and packaging roadmaps. |
 | [03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md](03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md) | 3,500 | Not Started | 0 | TSV and hybrid bonding patent families. |
 | [03-hbm-deep-dive/05-hbm-customer-ecosystem.md](03-hbm-deep-dive/05-hbm-customer-ecosystem.md) | 3,000 | Not Started | 0 | NVIDIA, AMD, Google TPU, custom HBM models. |
