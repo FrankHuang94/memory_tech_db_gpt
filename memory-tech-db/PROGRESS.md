@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 40,224 words**
+**Running database total: 43,360 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -17,9 +17,10 @@
 | 2026-07-04 | 03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md | HBM patent/IP landscape covering TSV, base die, scheduling, thermal packaging, trade secrets, and representative Samsung/SK hynix/Micron families. | 3,583 | 33,823 | Draft |
 | 2026-07-04 | 03-hbm-deep-dive/05-hbm-customer-ecosystem.md | NVIDIA Rubin/Blackwell, AMD Instinct, Google Ironwood TPU, custom HBM base-die models, allocation mechanics, and workload memory economics. | 3,002 | 37,081 | Draft |
 | 2026-07-04 | 04-hbf-emerging-tech/01-hbf-overview.md | High Bandwidth Flash overview covering NAND-between-HBM-and-SSD architecture, inference TCO, software requirements, vendors, adoption risks. | 3,007 | 40,224 | Draft |
+| 2026-07-04 | 04-hbf-emerging-tech/02-hbf-standardization.md | HBF standardization through OCP, SanDisk/SK hynix MoU, BiCS/CBA context, advisory board, standards checklist, and sample-to-deployment path. | 3,042 | 43,360 | Draft |
 
 ## Resume State
 
-Next file to begin: `04-hbf-emerging-tech/02-hbf-standardization.md`.
+Next file to begin: `04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md`.
 
-Known work remaining before review pass: continue through `04-hbf-emerging-tech/02-hbf-standardization.md`, then `04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md`, then `05-other-emerging-memory/01-cxl-memory-pooling.md`, and refresh `SOURCES.md` after each new factual source is introduced.
