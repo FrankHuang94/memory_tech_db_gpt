@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 68,598**
+**TOTAL WORD COUNT: 71,698**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -27,7 +27,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [06-competitive-landscape/01-sk-hynix-profile.md](06-competitive-landscape/01-sk-hynix-profile.md) | 2,800 | Draft | 3,056 | SK hynix AI memory, HBM4, manufacturing footprint, customer ecosystem, visuals/videos. |
 | [06-competitive-landscape/02-samsung-memory-profile.md](06-competitive-landscape/02-samsung-memory-profile.md) | 2,800 | Draft | 3,187 | Samsung memory, HBM4, vertical integration, Pyeongtaek/Taylor, visuals/videos. |
 | [06-competitive-landscape/03-micron-profile.md](06-competitive-landscape/03-micron-profile.md) | 2,800 | Draft | 3,112 | Micron U.S. memory, HBM4, AI storage, Idaho/New York/Taiwan/Singapore, visuals/videos. |
-| [06-competitive-landscape/04-kioxia-sandisk-wd-profile.md](06-competitive-landscape/04-kioxia-sandisk-wd-profile.md) | 2,800 | Not Started | 0 | Kioxia, SanDisk, WD profile. |
+| [06-competitive-landscape/04-kioxia-sandisk-wd-profile.md](06-competitive-landscape/04-kioxia-sandisk-wd-profile.md) | 2,800 | Draft | 2,842 | Kioxia/Sandisk NAND JV, BiCS roadmap, AI storage, WD separation, visuals/videos. |
 | [06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md](06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md) | 2,500 | Not Started | 0 | CXMT, YMTC, controls and substitution. |
 | [06-competitive-landscape/06-market-share-tracker.md](06-competitive-landscape/06-market-share-tracker.md) | 1,300 | Not Started | 0 | Share snapshots and update template. |
 | [07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md](07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md) | 2,800 | Not Started | 0 | ASML, Applied, Lam, TEL, KLA. |
