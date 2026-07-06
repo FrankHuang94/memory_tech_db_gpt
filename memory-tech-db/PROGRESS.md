@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 71,698 words**
+**Running database total: 74,600 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -27,9 +27,10 @@
 | 2026-07-06 | 06-competitive-landscape/02-samsung-memory-profile.md | Samsung memory profile covering HBM4, FY2025 results, foundry/base-die integration, Pyeongtaek/Taylor capacity, NAND for inference, visuals, and videos. | 3,187 | 65,127 | Draft |
 | 2026-07-06 | 06-competitive-landscape/03-micron-profile.md | Micron profile covering HBM4, SOCAMM2, Gen6 SSDs, Q3 FY2026 results, U.S. expansion, customer agreements, visuals, and videos. | 3,112 | 68,598 | Draft |
 | 2026-07-06 | 06-competitive-landscape/04-kioxia-sandisk-wd-profile.md | Kioxia/Sandisk/WD profile covering NAND JV extension, BiCS roadmap, AI enterprise SSDs, FY2026 results, WD separation, visuals, and videos. | 2,842 | 71,698 | Draft |
+| 2026-07-06 | 06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md | CXMT/YMTC profile covering DRAM/NAND substitution, export controls, domestic tools, HBM gaps, visuals, and semicap implications. | 2,582 | 74,573 | Draft |
 
 ## Resume State
 
-Next file to begin: `06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md`.
+Next file to begin: `06-competitive-landscape/06-market-share-tracker.md`.
 
-Known work remaining before review pass: continue through `06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md`, then the rest of `06-competitive-landscape/`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: complete `06-competitive-landscape/06-market-share-tracker.md`, then continue into `07-semicap-ecosystem/`, and refresh `SOURCES.md` after each new factual source is introduced.
