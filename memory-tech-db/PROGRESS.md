@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 65,127 words**
+**Running database total: 68,598 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -25,9 +25,10 @@
 | 2026-07-05 | 05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md | 3D XPoint and Optane commercialization, product segmentation, PMem performance, discontinuation causes, counterfactuals, and memory-tier lessons. | 2,788 | 58,513 | Draft |
 | 2026-07-05 | 06-competitive-landscape/01-sk-hynix-profile.md | SK hynix AI memory profile covering HBM4, FY2025 results, manufacturing footprint, customer ecosystem, competitive positioning, visuals, and videos. | 3,056 | 61,760 | Draft |
 | 2026-07-06 | 06-competitive-landscape/02-samsung-memory-profile.md | Samsung memory profile covering HBM4, FY2025 results, foundry/base-die integration, Pyeongtaek/Taylor capacity, NAND for inference, visuals, and videos. | 3,187 | 65,127 | Draft |
+| 2026-07-06 | 06-competitive-landscape/03-micron-profile.md | Micron profile covering HBM4, SOCAMM2, Gen6 SSDs, Q3 FY2026 results, U.S. expansion, customer agreements, visuals, and videos. | 3,112 | 68,598 | Draft |
 
 ## Resume State
 
-Next file to begin: `06-competitive-landscape/03-micron-profile.md`.
+Next file to begin: `06-competitive-landscape/04-kioxia-sandisk-wd-profile.md`.
 
-Known work remaining before review pass: continue through `06-competitive-landscape/03-micron-profile.md` with official images and videos, then the rest of `06-competitive-landscape/`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `06-competitive-landscape/04-kioxia-sandisk-wd-profile.md`, then the rest of `06-competitive-landscape/`, and refresh `SOURCES.md` after each new factual source is introduced.
