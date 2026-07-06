@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 55,514**
+**TOTAL WORD COUNT: 58,513**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -23,7 +23,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [05-other-emerging-memory/01-cxl-memory-pooling.md](05-other-emerging-memory/01-cxl-memory-pooling.md) | 2,500 | Draft | 2,583 | CXL memory expansion, pooling, near-data processing, deployment economics. |
 | [05-other-emerging-memory/02-mram-reram-pcm.md](05-other-emerging-memory/02-mram-reram-pcm.md) | 2,500 | Draft | 2,881 | MRAM, ReRAM, PCM commercialization, integration economics, and research frontier. |
 | [05-other-emerging-memory/03-computational-storage-near-memory.md](05-other-emerging-memory/03-computational-storage-near-memory.md) | 2,500 | Draft | 2,733 | Computational storage, CXL near-data processing, HBM-PIM, workload fit. |
-| [05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md](05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md) | 2,500 | Not Started | 0 | Optane commercialization and failure analysis. |
+| [05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md](05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md) | 2,500 | Draft | 2,788 | 3D XPoint/Optane commercialization, performance, failure causes, and lessons. |
 | [06-competitive-landscape/01-sk-hynix-profile.md](06-competitive-landscape/01-sk-hynix-profile.md) | 2,800 | Not Started | 0 | Vendor profile with official images and videos. |
 | [06-competitive-landscape/02-samsung-memory-profile.md](06-competitive-landscape/02-samsung-memory-profile.md) | 2,800 | Not Started | 0 | Vendor profile with official images and videos. |
 | [06-competitive-landscape/03-micron-profile.md](06-competitive-landscape/03-micron-profile.md) | 2,800 | Not Started | 0 | Vendor profile with official images and videos. |
