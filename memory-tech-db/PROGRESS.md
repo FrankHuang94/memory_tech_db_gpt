@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 76,243 words**
+**Running database total: 79,356 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -29,9 +29,10 @@
 | 2026-07-06 | 06-competitive-landscape/04-kioxia-sandisk-wd-profile.md | Kioxia/Sandisk/WD profile covering NAND JV extension, BiCS roadmap, AI enterprise SSDs, FY2026 results, WD separation, visuals, and videos. | 2,842 | 71,698 | Draft |
 | 2026-07-06 | 06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md | CXMT/YMTC profile covering DRAM/NAND substitution, export controls, domestic tools, HBM gaps, visuals, and semicap implications. | 2,582 | 74,600 | Draft |
 | 2026-07-06 | 06-competitive-landscape/06-market-share-tracker.md | Market-share tracker covering timestamped DRAM, HBM, NAND, China substitution, shortage duration, KPI watchlist, and update discipline. | 1,576 | 76,243 | Draft |
+| 2026-07-06 | 07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md | WFE vendor map covering ASML, Applied Materials, Lam Research, Tokyo Electron, KLA, memory bottlenecks, export controls, and KPI watchlist. | 2,866 | 79,356 | Draft |
 
 ## Resume State
 
-Next file to begin: `07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md`.
+Next file to begin: `07-semicap-ecosystem/02-substrate-interposer-osat.md`.
 
-Known work remaining before review pass: continue into `07-semicap-ecosystem/`, starting with wafer-fab equipment vendors, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through the remaining `07-semicap-ecosystem/` files, and refresh `SOURCES.md` after each new factual source is introduced.
