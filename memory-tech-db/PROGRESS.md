@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 96,542 words**
+**Running database total: 99,615 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -36,9 +36,10 @@
 | 2026-07-06 | 07-semicap-ecosystem/05-eda-design-tools.md | EDA map covering Synopsys, Cadence, Siemens, HBM IP, chiplet/package signoff, UCIe memory, thermal, and AI-assisted flows. | 2,450 | 90,104 | Draft |
 | 2026-07-06 | 08-manufacturing-process/01-dram-process-flow.md | DRAM process flow covering isolation, access transistor, storage capacitor, bitline/sense amp, BEOL, wafer sort, repair, and yield learning. | 3,112 | 93,362 | Draft |
 | 2026-07-06 | 08-manufacturing-process/02-3d-nand-process-flow.md | 3D NAND process flow covering film stacks, channel-hole etch, CBA/CUA, deck splitting, staircase contacts, wafer sort, and controller coupling. | 3,098 | 96,542 | Draft |
+| 2026-07-06 | 08-manufacturing-process/03-hbm-packaging-process-flow.md | HBM packaging process flow covering KGD, TSV reveal, thinning, microbump bonding, stacking, underfill, base die, interposer attach, inspection, and qualification. | 3,037 | 99,615 | Draft |
 
 ## Resume State
 
-Next file to begin: `08-manufacturing-process/03-hbm-packaging-process-flow.md`.
+Next file to begin: `09-research-frontier/01-academic-industry-research.md`.
 
-Known work remaining before review pass: complete the HBM packaging process flow, then continue into `09-research-frontier/`; refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue into `09-research-frontier/`, starting with academic/industry research, and refresh `SOURCES.md` after each new factual source is introduced.
