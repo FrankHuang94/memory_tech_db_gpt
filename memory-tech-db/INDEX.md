@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 49,321**
+**TOTAL WORD COUNT: 52,533**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -21,7 +21,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [04-hbf-emerging-tech/02-hbf-standardization.md](04-hbf-emerging-tech/02-hbf-standardization.md) | 3,000 | Draft | 3,042 | OCP standardization, SanDisk/SK hynix, BiCS/CBA, advisory board, sample timeline. |
 | [04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md](04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md) | 3,000 | Draft | 3,144 | HBF/HBM/CXL comparison across bandwidth, capacity, cost, latency, workload fit. |
 | [05-other-emerging-memory/01-cxl-memory-pooling.md](05-other-emerging-memory/01-cxl-memory-pooling.md) | 2,500 | Draft | 2,583 | CXL memory expansion, pooling, near-data processing, deployment economics. |
-| [05-other-emerging-memory/02-mram-reram-pcm.md](05-other-emerging-memory/02-mram-reram-pcm.md) | 2,500 | Not Started | 0 | MRAM, ReRAM, PCM technology status. |
+| [05-other-emerging-memory/02-mram-reram-pcm.md](05-other-emerging-memory/02-mram-reram-pcm.md) | 2,500 | Draft | 2,881 | MRAM, ReRAM, PCM commercialization, integration economics, and research frontier. |
 | [05-other-emerging-memory/03-computational-storage-near-memory.md](05-other-emerging-memory/03-computational-storage-near-memory.md) | 2,500 | Not Started | 0 | Computational storage and near-memory compute. |
 | [05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md](05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md) | 2,500 | Not Started | 0 | Optane commercialization and failure analysis. |
 | [06-competitive-landscape/01-sk-hynix-profile.md](06-competitive-landscape/01-sk-hynix-profile.md) | 2,800 | Not Started | 0 | Vendor profile with official images and videos. |

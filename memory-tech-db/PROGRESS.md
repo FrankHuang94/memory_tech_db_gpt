@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 49,321 words**
+**Running database total: 52,533 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -20,9 +20,10 @@
 | 2026-07-04 | 04-hbf-emerging-tech/02-hbf-standardization.md | HBF standardization through OCP, SanDisk/SK hynix MoU, BiCS/CBA context, advisory board, standards checklist, and sample-to-deployment path. | 3,042 | 43,360 | Draft |
 | 2026-07-05 | 04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md | HBF/HBM/CXL comparison covering bandwidth, latency, capacity, software control, deployment archetypes, workload fit, and semicap implications. | 3,144 | 46,680 | Draft |
 | 2026-07-05 | 05-other-emerging-memory/01-cxl-memory-pooling.md | CXL expansion and pooling architecture, Meta Vistara, Octopus, CCCL, near-data processing, operational risks, and deployment economics. | 2,583 | 49,321 | Draft |
+| 2026-07-05 | 05-other-emerging-memory/02-mram-reram-pcm.md | MRAM, ReRAM, and PCM technology mechanisms, product status, integration economics, qualification gates, and failure modes. | 2,881 | 52,533 | Draft |
 
 ## Resume State
 
-Next file to begin: `05-other-emerging-memory/02-mram-reram-pcm.md`.
+Next file to begin: `05-other-emerging-memory/03-computational-storage-near-memory.md`.
 
-Known work remaining before review pass: continue through `05-other-emerging-memory/02-mram-reram-pcm.md`, then `05-other-emerging-memory/03-computational-storage-near-memory.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `05-other-emerging-memory/03-computational-storage-near-memory.md`, then `05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md`, and refresh `SOURCES.md` after each new factual source is introduced.
