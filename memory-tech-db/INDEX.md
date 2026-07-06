@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 79,356**
+**TOTAL WORD COUNT: 82,099**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -31,7 +31,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md](06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md) | 2,500 | Draft | 2,582 | CXMT, YMTC, export controls, domestic substitution, toolchain limits. |
 | [06-competitive-landscape/06-market-share-tracker.md](06-competitive-landscape/06-market-share-tracker.md) | 1,300 | Draft | 1,576 | DRAM, HBM, NAND share snapshots and quarterly update template. |
 | [07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md](07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md) | 2,800 | Draft | 2,866 | ASML, Applied, Lam, TEL, KLA, memory WFE bottlenecks. |
-| [07-semicap-ecosystem/02-substrate-interposer-osat.md](07-semicap-ecosystem/02-substrate-interposer-osat.md) | 2,500 | Not Started | 0 | Amkor, ASE, interposers, substrates. |
+| [07-semicap-ecosystem/02-substrate-interposer-osat.md](07-semicap-ecosystem/02-substrate-interposer-osat.md) | 2,500 | Draft | 2,568 | Amkor, ASE, CoWoS, EMIB, substrates, interposers, OSAT capacity. |
 | [07-semicap-ecosystem/03-testing-equipment.md](07-semicap-ecosystem/03-testing-equipment.md) | 2,500 | Not Started | 0 | Advantest and HBM known-good-die test. |
 | [07-semicap-ecosystem/04-materials-chemicals.md](07-semicap-ecosystem/04-materials-chemicals.md) | 2,400 | Not Started | 0 | Process materials and specialty chemicals. |
 | [07-semicap-ecosystem/05-eda-design-tools.md](07-semicap-ecosystem/05-eda-design-tools.md) | 2,300 | Not Started | 0 | EDA tools for memory and packaging. |

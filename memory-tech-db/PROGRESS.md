@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 79,356 words**
+**Running database total: 82,099 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -30,9 +30,10 @@
 | 2026-07-06 | 06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md | CXMT/YMTC profile covering DRAM/NAND substitution, export controls, domestic tools, HBM gaps, visuals, and semicap implications. | 2,582 | 74,600 | Draft |
 | 2026-07-06 | 06-competitive-landscape/06-market-share-tracker.md | Market-share tracker covering timestamped DRAM, HBM, NAND, China substitution, shortage duration, KPI watchlist, and update discipline. | 1,576 | 76,243 | Draft |
 | 2026-07-06 | 07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md | WFE vendor map covering ASML, Applied Materials, Lam Research, Tokyo Electron, KLA, memory bottlenecks, export controls, and KPI watchlist. | 2,866 | 79,356 | Draft |
+| 2026-07-06 | 07-semicap-ecosystem/02-substrate-interposer-osat.md | OSAT and substrate map covering Amkor, ASE, CoWoS, EMIB, interposers, substrates, package inspection, and AI capacity bottlenecks. | 2,568 | 82,099 | Draft |
 
 ## Resume State
 
-Next file to begin: `07-semicap-ecosystem/02-substrate-interposer-osat.md`.
+Next file to begin: `07-semicap-ecosystem/03-testing-equipment.md`.
 
 Known work remaining before review pass: continue through the remaining `07-semicap-ecosystem/` files, and refresh `SOURCES.md` after each new factual source is introduced.
