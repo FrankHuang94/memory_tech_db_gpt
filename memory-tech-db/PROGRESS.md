@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 58,513 words**
+**Running database total: 61,760 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -23,9 +23,10 @@
 | 2026-07-05 | 05-other-emerging-memory/02-mram-reram-pcm.md | MRAM, ReRAM, and PCM technology mechanisms, product status, integration economics, qualification gates, and failure modes. | 2,881 | 52,533 | Draft |
 | 2026-07-05 | 05-other-emerging-memory/03-computational-storage-near-memory.md | Computational storage, SmartSSD and ScaleFlux, SSD-side NDP, CXL near-memory compute, HBM-PIM, workload fit, and deployment barriers. | 2,733 | 55,514 | Draft |
 | 2026-07-05 | 05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md | 3D XPoint and Optane commercialization, product segmentation, PMem performance, discontinuation causes, counterfactuals, and memory-tier lessons. | 2,788 | 58,513 | Draft |
+| 2026-07-05 | 06-competitive-landscape/01-sk-hynix-profile.md | SK hynix AI memory profile covering HBM4, FY2025 results, manufacturing footprint, customer ecosystem, competitive positioning, visuals, and videos. | 3,056 | 61,760 | Draft |
 
 ## Resume State
 
-Next file to begin: `06-competitive-landscape/01-sk-hynix-profile.md`.
+Next file to begin: `06-competitive-landscape/02-samsung-memory-profile.md`.
 
-Known work remaining before review pass: begin `06-competitive-landscape/01-sk-hynix-profile.md` with official images and videos, then continue through the rest of `06-competitive-landscape/`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `06-competitive-landscape/02-samsung-memory-profile.md` with official images and videos, then the rest of `06-competitive-landscape/`, and refresh `SOURCES.md` after each new factual source is introduced.
