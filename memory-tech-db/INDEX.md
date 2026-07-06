@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 99,615**
+**TOTAL WORD COUNT: 102,415**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -38,7 +38,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [08-manufacturing-process/01-dram-process-flow.md](08-manufacturing-process/01-dram-process-flow.md) | 3,000 | Draft | 3,112 | DRAM transistor, capacitor, bitline, BEOL, sort, and yield-learning process flow. |
 | [08-manufacturing-process/02-3d-nand-process-flow.md](08-manufacturing-process/02-3d-nand-process-flow.md) | 3,000 | Draft | 3,098 | 3D NAND stack deposition, channel-hole etch, CBA, staircase, sort, and controller coupling. |
 | [08-manufacturing-process/03-hbm-packaging-process-flow.md](08-manufacturing-process/03-hbm-packaging-process-flow.md) | 3,000 | Draft | 3,037 | TSV, thinning, microbump, stacking, underfill, base die, interposer attach, and package test. |
-| [09-research-frontier/01-academic-industry-research.md](09-research-frontier/01-academic-industry-research.md) | 2,500 | Not Started | 0 | ISSCC, IEDM, IMW, IMEC, KAIST, Stanford. |
+| [09-research-frontier/01-academic-industry-research.md](09-research-frontier/01-academic-industry-research.md) | 2,500 | Draft | 2,575 | ISSCC/IEDM/IMW map, 3D DRAM, HBM thermals, NAND PIM, CXL, IMEC/KAIST/Stanford. |
 | [09-research-frontier/02-hybrid-bonding-advanced-packaging.md](09-research-frontier/02-hybrid-bonding-advanced-packaging.md) | 2,500 | Not Started | 0 | Hybrid bonding and advanced package scaling. |
 | [09-research-frontier/03-power-thermal-challenges.md](09-research-frontier/03-power-thermal-challenges.md) | 2,500 | Not Started | 0 | Memory power and thermal bottlenecks. |
 | [10-macro-drivers/01-ai-datacenter-demand.md](10-macro-drivers/01-ai-datacenter-demand.md) | 2,500 | Not Started | 0 | AI datacenter demand and memory attach. |

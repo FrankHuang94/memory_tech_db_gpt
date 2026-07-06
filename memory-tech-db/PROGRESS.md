@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 99,615 words**
+**Running database total: 102,415 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -37,9 +37,10 @@
 | 2026-07-06 | 08-manufacturing-process/01-dram-process-flow.md | DRAM process flow covering isolation, access transistor, storage capacitor, bitline/sense amp, BEOL, wafer sort, repair, and yield learning. | 3,112 | 93,362 | Draft |
 | 2026-07-06 | 08-manufacturing-process/02-3d-nand-process-flow.md | 3D NAND process flow covering film stacks, channel-hole etch, CBA/CUA, deck splitting, staircase contacts, wafer sort, and controller coupling. | 3,098 | 96,542 | Draft |
 | 2026-07-06 | 08-manufacturing-process/03-hbm-packaging-process-flow.md | HBM packaging process flow covering KGD, TSV reveal, thinning, microbump bonding, stacking, underfill, base die, interposer attach, inspection, and qualification. | 3,037 | 99,615 | Draft |
+| 2026-07-06 | 09-research-frontier/01-academic-industry-research.md | Research-frontier map covering ISSCC/IEDM/IMW, 3D DRAM, HBM thermal/package co-design, NAND PIM, CXL tiered memory, IMEC, KAIST, Stanford, and research-to-product scoring. | 2,575 | 102,415 | Draft |
 
 ## Resume State
 
-Next file to begin: `09-research-frontier/01-academic-industry-research.md`.
+Next file to begin: `09-research-frontier/02-hybrid-bonding-advanced-packaging.md`.
 
-Known work remaining before review pass: continue into `09-research-frontier/`, starting with academic/industry research, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through the remaining research-frontier and macro-driver files, and refresh `SOURCES.md` after each new factual source is introduced.
