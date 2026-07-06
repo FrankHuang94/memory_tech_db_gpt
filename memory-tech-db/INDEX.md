@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 84,765**
+**TOTAL WORD COUNT: 87,423**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -33,7 +33,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md](07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md) | 2,800 | Draft | 2,866 | ASML, Applied, Lam, TEL, KLA, memory WFE bottlenecks. |
 | [07-semicap-ecosystem/02-substrate-interposer-osat.md](07-semicap-ecosystem/02-substrate-interposer-osat.md) | 2,500 | Draft | 2,568 | Amkor, ASE, CoWoS, EMIB, substrates, interposers, OSAT capacity. |
 | [07-semicap-ecosystem/03-testing-equipment.md](07-semicap-ecosystem/03-testing-equipment.md) | 2,500 | Draft | 2,508 | Advantest, Teradyne, HBM KGD, package test, burn-in, SSD validation. |
-| [07-semicap-ecosystem/04-materials-chemicals.md](07-semicap-ecosystem/04-materials-chemicals.md) | 2,400 | Not Started | 0 | Process materials and specialty chemicals. |
+| [07-semicap-ecosystem/04-materials-chemicals.md](07-semicap-ecosystem/04-materials-chemicals.md) | 2,400 | Draft | 2,427 | Photoresists, CMP, gases, precursors, cleans, packaging materials. |
 | [07-semicap-ecosystem/05-eda-design-tools.md](07-semicap-ecosystem/05-eda-design-tools.md) | 2,300 | Not Started | 0 | EDA tools for memory and packaging. |
 | [08-manufacturing-process/01-dram-process-flow.md](08-manufacturing-process/01-dram-process-flow.md) | 3,000 | Not Started | 0 | DRAM process flow with annotated Mermaid. |
 | [08-manufacturing-process/02-3d-nand-process-flow.md](08-manufacturing-process/02-3d-nand-process-flow.md) | 3,000 | Not Started | 0 | 3D NAND process flow with annotated Mermaid. |
