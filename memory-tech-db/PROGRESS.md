@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 93,362 words**
+**Running database total: 96,542 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -35,9 +35,10 @@
 | 2026-07-06 | 07-semicap-ecosystem/04-materials-chemicals.md | Materials map covering photoresists, MOR, CMP, cleans, gases, delivery/purity, underfill, thermal, and packaging materials. | 2,427 | 87,423 | Draft |
 | 2026-07-06 | 07-semicap-ecosystem/05-eda-design-tools.md | EDA map covering Synopsys, Cadence, Siemens, HBM IP, chiplet/package signoff, UCIe memory, thermal, and AI-assisted flows. | 2,450 | 90,104 | Draft |
 | 2026-07-06 | 08-manufacturing-process/01-dram-process-flow.md | DRAM process flow covering isolation, access transistor, storage capacitor, bitline/sense amp, BEOL, wafer sort, repair, and yield learning. | 3,112 | 93,362 | Draft |
+| 2026-07-06 | 08-manufacturing-process/02-3d-nand-process-flow.md | 3D NAND process flow covering film stacks, channel-hole etch, CBA/CUA, deck splitting, staircase contacts, wafer sort, and controller coupling. | 3,098 | 96,542 | Draft |
 
 ## Resume State
 
-Next file to begin: `08-manufacturing-process/02-3d-nand-process-flow.md`.
+Next file to begin: `08-manufacturing-process/03-hbm-packaging-process-flow.md`.
 
-Known work remaining before review pass: continue through `08-manufacturing-process/`, starting with 3D NAND process flow, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: complete the HBM packaging process flow, then continue into `09-research-frontier/`; refresh `SOURCES.md` after each new factual source is introduced.

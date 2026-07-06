@@ -237,3 +237,5 @@ This file is the deduplicated source list for the database. Each cited source sh
 | S235 | Atomic layer deposition overview, Wikipedia | https://en.wikipedia.org/wiki/Atomic_layer_deposition | Crawled 2026-04, no stable page publish date listed | 08-manufacturing-process/01-dram-process-flow.md |
 | S236 | Deep reactive-ion etching overview, Wikipedia | https://en.wikipedia.org/wiki/Deep_reactive-ion_etching | Crawled 2025-10, no stable page publish date listed | 08-manufacturing-process/01-dram-process-flow.md |
 | S237 | ColumnDisturb: Understanding Column-based Read Disturbance in Real DRAM Chips and Implications for Future Systems, arXiv | https://arxiv.org/abs/2510.14750 | 2025-10-16 | 08-manufacturing-process/01-dram-process-flow.md |
+| S238 | Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation, arXiv | https://arxiv.org/abs/1807.05140 | 2018-07-13 | 08-manufacturing-process/02-3d-nand-process-flow.md |
+| S239 | Charge trap flash overview, Wikipedia | https://en.wikipedia.org/wiki/Charge_trap_flash | Crawled 2026-05, no stable page publish date listed | 08-manufacturing-process/02-3d-nand-process-flow.md |

@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 93,362**
+**TOTAL WORD COUNT: 96,542**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -36,7 +36,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [07-semicap-ecosystem/04-materials-chemicals.md](07-semicap-ecosystem/04-materials-chemicals.md) | 2,400 | Draft | 2,427 | Photoresists, CMP, gases, precursors, cleans, packaging materials. |
 | [07-semicap-ecosystem/05-eda-design-tools.md](07-semicap-ecosystem/05-eda-design-tools.md) | 2,300 | Draft | 2,450 | EDA, HBM IP, chiplet/package signoff, UCIe, AI-assisted flows. |
 | [08-manufacturing-process/01-dram-process-flow.md](08-manufacturing-process/01-dram-process-flow.md) | 3,000 | Draft | 3,112 | DRAM transistor, capacitor, bitline, BEOL, sort, and yield-learning process flow. |
-| [08-manufacturing-process/02-3d-nand-process-flow.md](08-manufacturing-process/02-3d-nand-process-flow.md) | 3,000 | Not Started | 0 | 3D NAND process flow with annotated Mermaid. |
+| [08-manufacturing-process/02-3d-nand-process-flow.md](08-manufacturing-process/02-3d-nand-process-flow.md) | 3,000 | Draft | 3,098 | 3D NAND stack deposition, channel-hole etch, CBA, staircase, sort, and controller coupling. |
 | [08-manufacturing-process/03-hbm-packaging-process-flow.md](08-manufacturing-process/03-hbm-packaging-process-flow.md) | 3,000 | Not Started | 0 | TSV, stack, underfill, interposer attach. |
 | [09-research-frontier/01-academic-industry-research.md](09-research-frontier/01-academic-industry-research.md) | 2,500 | Not Started | 0 | ISSCC, IEDM, IMW, IMEC, KAIST, Stanford. |
 | [09-research-frontier/02-hybrid-bonding-advanced-packaging.md](09-research-frontier/02-hybrid-bonding-advanced-packaging.md) | 2,500 | Not Started | 0 | Hybrid bonding and advanced package scaling. |
