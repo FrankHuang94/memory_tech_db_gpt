@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 52,533 words**
+**Running database total: 55,514 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -21,9 +21,10 @@
 | 2026-07-05 | 04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md | HBF/HBM/CXL comparison covering bandwidth, latency, capacity, software control, deployment archetypes, workload fit, and semicap implications. | 3,144 | 46,680 | Draft |
 | 2026-07-05 | 05-other-emerging-memory/01-cxl-memory-pooling.md | CXL expansion and pooling architecture, Meta Vistara, Octopus, CCCL, near-data processing, operational risks, and deployment economics. | 2,583 | 49,321 | Draft |
 | 2026-07-05 | 05-other-emerging-memory/02-mram-reram-pcm.md | MRAM, ReRAM, and PCM technology mechanisms, product status, integration economics, qualification gates, and failure modes. | 2,881 | 52,533 | Draft |
+| 2026-07-05 | 05-other-emerging-memory/03-computational-storage-near-memory.md | Computational storage, SmartSSD and ScaleFlux, SSD-side NDP, CXL near-memory compute, HBM-PIM, workload fit, and deployment barriers. | 2,733 | 55,514 | Draft |
 
 ## Resume State
 
-Next file to begin: `05-other-emerging-memory/03-computational-storage-near-memory.md`.
+Next file to begin: `05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md`.
 
-Known work remaining before review pass: continue through `05-other-emerging-memory/03-computational-storage-near-memory.md`, then `05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md`, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through `05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md`, then begin `06-competitive-landscape/01-sk-hynix-profile.md` with official images and videos, and refresh `SOURCES.md` after each new factual source is introduced.
