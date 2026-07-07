@@ -144,3 +144,20 @@ The bull case is that Micron has become the strategic U.S. memory supplier just 
 The bear case is that Micron remains a memory company in an exceptional upcycle. Gross margins above 80% are not a through-cycle assumption. HBM supply can broaden, NAND can oversupply, customer agreements can be renegotiated or prove less protective than advertised, and U.S. fabs can cost more or ramp slower than planned. If investors capitalize fiscal Q3 2026 as a steady-state earnings base, they may underwrite peak-cycle economics.
 
 For this database, Micron is the U.S.-aligned AI memory challenger. SK hynix defines focused HBM execution; Samsung defines vertical integration; Micron defines supply-chain diversification plus full-stack memory/storage participation. Its success or failure will show whether AI-era memory economics reward national manufacturing footprint and customer agreements as much as raw HBM stack leadership.
+
+## Sources
+
+[^S158]: Micron Technology, Inc. Reports Record Results for the Third Quarter of Fiscal 2026, Micron Investor Relations, published 2026-06-24, https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-results-third-quarter
+[^S159]: Micron in High-Volume Production of HBM4 Designed for NVIDIA Vera Rubin, PCIe Gen6 SSD and SOCAMM2, Micron Investor Relations, published 2026-03-16, https://investors.micron.com/news-releases/news-release-details/micron-high-volume-production-hbm4-designed-nvidia-vera-rubin
+[^S160]: HBM4 product page, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/products/memory/hbm/hbm4
+[^S161]: HBM3E product page, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/products/memory/hbm/hbm3e
+[^S162]: Micron Powers AI Everywhere at COMPUTEX 2026, Micron Investor Relations, published 2026-06-01, https://investors.micron.com/news-releases/news-release-details/micron-powers-ai-everywhere-computex-2026
+[^S163]: Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure, Micron Investor Relations, published 2026-06-22, https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next
+[^S164]: Micron Selects Bechtel as Construction Partner for Historic New York Semiconductor Project, Micron Investor Relations, published 2026-06-10, https://investors.micron.com/news-releases/news-release-details/micron-selects-bechtel-construction-partner-historic-new-york
+[^S165]: Micron Idaho expansion page, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/us-expansion/id
+[^S166]: Micron New York expansion page, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/us-expansion/ny
+[^S167]: Micron starts building new 3D NAND fab in Singapore, Tom's Hardware, published 2026-01-28, https://www.tomshardware.com/pc-components/ssds/micron-starts-building-new-3d-nand-fab-in-singapore-fab-10b-promises-to-more-than-double-the-companys-local-flash-production-capacity
+[^S168]: Micron signs a deal to acquire a chip foundry in Taiwan for $1.8 billion, PC Gamer, published 2026-01-19, https://www.pcgamer.com/hardware/memory/micron-signs-a-deal-to-acquire-a-chip-foundry-in-taiwan-for-usd1-8-billion-though-it-wont-make-a-dent-in-the-memory-supply-crisis-until-2027-at-the-earliest/
+[^S169]: Micron HBM4 image gallery, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/about/press/image-gallery/products-technology/hbm/hbm4
+[^S170]: Micron locations image gallery, Micron Technology, Accessed 2026-07-06, no stable page publish date listed, https://www.micron.com/about/press/image-gallery/locations
+[^S171]: Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation, Micron Investor Relations, published 2026-07-01, https://investors.micron.com/news-releases/news-release-details/micron-and-general-motors-sign-strategic-agreement-secure-supply

@@ -109,3 +109,18 @@ The central question is no longer "who packages chips cheaply?" It is "who can i
 ## Database Links
 
 This file should be read with [03-hbm-deep-dive/01-hbm-fundamentals.md](../03-hbm-deep-dive/01-hbm-fundamentals.md) for the HBM package architecture, [03-hbm-deep-dive/03-hbm-vendor-roadmaps.md](../03-hbm-deep-dive/03-hbm-vendor-roadmaps.md) for vendor-specific packaging capacity, [07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md](01-wafer-fab-equipment-vendors.md) for front-end and wafer-level tool suppliers, and [07-semicap-ecosystem/03-testing-equipment.md](03-testing-equipment.md) for known-good-die, package, and system test.
+
+## Sources
+
+[^S050]: 2.5D integrated circuit overview, Wikipedia, Crawled 2026-03, no stable page publish date listed, https://en.wikipedia.org/wiki/2.5D_integrated_circuit
+[^S053]: Amkor breaks ground on Arizona advanced packaging campus, Tom's Hardware, published 2025-10-07, https://www.tomshardware.com/tech-industry/semiconductors/amkor-breaks-ground-on-arizona-advanced-packaging-campus
+[^S054]: Intel, SK hynix shares surge following reports of chip packaging partnership, Tom's Hardware, published 2026-05-11, https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership
+[^S057]: TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors, Tom's Hardware, published 2026-06-16, https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package
+[^S059]: Micron enters high-volume production of HBM4 for Nvidia Vera Rubin, Tom's Hardware, published 2026-03-16, https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin
+[^S089]: Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, Tom's Hardware, published 2026-06-30, exact day inferred from relative publication age, https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns
+[^S205]: Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead, Tom's Hardware, published 2026-04-02, https://www.tomshardware.com/tech-industry/global-semiconductor-foundry-market-hit-a-record-320-billion-in-2025
+[^S206]: Design Guidelines for In-line X-ray Inspection in Advanced Packaging Technology: A CoWoS Case Study, arXiv, published 2026-06-24, https://arxiv.org/abs/2606.26430
+[^S207]: ASE adopts AMD CPUs, Tom's Hardware, published 2025-06-06, https://www.tomshardware.com/pc-components/cpus/ase-adopts-amd-cpus-begins-evaluating-instinct-mi300-series-gpus-for-ai
+[^S208]: STAMP-2.5D: Structural and Thermal Aware Methodology for Placement in 2.5D Integration, arXiv, published 2025-04-29, https://arxiv.org/abs/2504.21140
+[^S209]: Amkor's Arizona mega-plant could plug the holes in America's chip ambitions, Tom's Hardware, published 2025-09-02, https://www.tomshardware.com/tech-industry/semiconductors/amkor-arizona-plant-plans-approved
+[^S210]: Intel reportedly in talks with Google and Amazon over advanced packaging, Tom's Hardware, published 2026-04-07, https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging

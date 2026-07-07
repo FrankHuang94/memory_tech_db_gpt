@@ -124,3 +124,15 @@ The core risk is correlation. EDA tools are only as valuable as their silicon co
 ## Database Links
 
 This file connects [03-hbm-deep-dive/05-hbm-customer-ecosystem.md](../03-hbm-deep-dive/05-hbm-customer-ecosystem.md), [07-semicap-ecosystem/02-substrate-interposer-osat.md](02-substrate-interposer-osat.md), [07-semicap-ecosystem/03-testing-equipment.md](03-testing-equipment.md), [08-manufacturing-process/03-hbm-packaging-process-flow.md](../08-manufacturing-process/03-hbm-packaging-process-flow.md), and [09-research-frontier/02-hybrid-bonding-advanced-packaging.md](../09-research-frontier/02-hybrid-bonding-advanced-packaging.md). The shared theme is that memory architecture, physical design, packaging, test, firmware, and thermal behavior can no longer be optimized in separate silos.
+
+## Sources
+
+[^S224]: Synopsys overview, Wikipedia, Crawled 2026-06, no stable page publish date listed, https://en.wikipedia.org/wiki/Synopsys
+[^S225]: Cadence Design Systems overview, Wikipedia, Crawled 2026-06, no stable page publish date listed, https://en.wikipedia.org/wiki/Cadence_Design_Systems
+[^S226]: Siemens Digital Industries Software overview, Wikipedia, Crawled 2026-06, no stable page publish date listed, https://en.wikipedia.org/wiki/Siemens_Digital_Industries_Software
+[^S227]: CLIPGen: A Chiplet Link IP Modeling and Generation Framework for 2.5D Architecture Exploration, arXiv, published 2026-05-26, https://arxiv.org/abs/2605.27757
+[^S228]: 3D-ICE 4.0: Accurate and efficient thermal modeling for 2.5D/3D heterogeneous chiplet systems, arXiv, published 2025-12-05, https://arxiv.org/abs/2512.05823
+[^S229]: Toward Mitigating Process-Induced Performance Degradation in 3.5D Heterogeneous Packages via Pre-Silicon Firmware Co-Optimization, arXiv, published 2026-06-24, https://arxiv.org/abs/2606.26176
+[^S230]: On-Package Memory with Universal Chiplet Interconnect Express, arXiv, published 2025-10-07, https://arxiv.org/abs/2510.06513
+[^S231]: Chinese university builds 3D chip design tool tailored to Huawei's LogicFolding architecture, Tom's Hardware, published 2026-05-28, https://www.tomshardware.com/tech-industry/semiconductors/peking-university-builds-3d-chip-design-tool-tailored-to-huaweis-logicfolding-architecture
+[^S232]: IICPilot: An Intelligent Integrated Circuit Backend Design Framework Using Open EDA, arXiv, published 2024-07-17, https://arxiv.org/abs/2407.12576

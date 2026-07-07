@@ -102,3 +102,20 @@ The first watchpoint is customer tape-outs, not press releases. For ReRAM, every
 The second watchpoint is process ownership. If a foundry can offer eMRAM or ReRAM as a library option with predictable PDK, EDA, test, and qualification collateral, adoption can spread across many low-volume designs. If every design needs custom materials tuning, adoption remains slow. That distinction matters more than cell-level benchmark claims.
 
 The third watchpoint is memory hierarchy fit. Emerging NVM succeeds when it removes a system cost: battery-backed SRAM, embedded flash process complexity, power-loss-protection capacitors, high-latency external boot devices, or off-chip model fetches. It fails when it asks buyers to replace a cheap, mature, high-volume memory tier without a whole-system reason.
+
+## Sources
+
+[^S111]: Everspin Technologies homepage, industry-leading MRAM technology, published Copyright 2026, no stable page publish date listed, https://www.everspin.com/
+[^S112]: Everspin MRAM products and persistent solutions, published Copyright 2026, no stable page publish date listed, https://www.everspin.com/products
+[^S113]: Everspin executes $40M agreement for Mil-Aero MRAM applications, published 2026-04-30, https://www.everspin.com/news/everspin-executes-40m-agreement-mil-aero-mram-applications
+[^S114]: Weebit Nano homepage, ReRAM next-generation memory technology, published Copyright 2026, no stable page publish date listed, https://www.weebit-nano.com/
+[^S115]: Weebit ReRAM technology overview, published Copyright 2026, no stable page publish date listed, https://www.weebit-nano.com/technology/overview/
+[^S116]: Weebit ReRAM NVM in SkyWater 130nm CMOS, published Copyright 2026, no stable page publish date listed, https://www.weebit-nano.com/products/embedded-reram-ip/weebit-reram-nvm-in-skywater-130nm-cmos/
+[^S117]: Weebit ReRAM NVM in DB HiTek 130nm BCD, published Copyright 2026, no stable page publish date listed, https://www.weebit-nano.com/products/embedded-reram-ip/wbt-dbh-db130lva-reram-rram/
+[^S118]: Weebit ReRAM bitcell technology overview, published Copyright 2026, no stable page publish date listed, https://www.weebit-nano.com/technology/reram-bitcell/
+[^S119]: Texas Instruments licenses embedded ReRAM from Weebit Nano, TechRadar, published 2026-01-16, https://www.techradar.com/pro/reram-is-the-replacement-for-nand-flash-usd170-billion-us-tech-company-backs-tiny-startup-in-race-to-find-the-holy-grail-of-universal-memory
+[^S120]: An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM, arXiv, published 2025-11-05, https://arxiv.org/abs/2511.03203
+[^S121]: Energy and Scaling Limits of Phase-Change Memory, arXiv, published 2026-05-27, https://arxiv.org/abs/2605.28336
+[^S122]: Cryogenic In-Memory Computing with Phase-Change Memory, arXiv, published 2025-09-26, https://arxiv.org/abs/2509.22511
+[^S123]: A 64-core mixed-signal in-memory compute chip based on phase-change memory for deep neural network inference, arXiv, published 2022-12-06, https://arxiv.org/abs/2212.02872
+[^S124]: WIRE: Write Energy Reduction via Encoding in Phase Change Main Memories, arXiv, published 2025-11-07, https://arxiv.org/abs/2511.04928

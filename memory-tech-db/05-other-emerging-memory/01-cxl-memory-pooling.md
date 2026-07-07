@@ -118,3 +118,13 @@ For CPU vendors, CXL support becomes part of platform competitiveness. CPUs with
 ## Bottom Line
 
 CXL memory pooling is an infrastructure technology, not a magic memory replacement. It is best viewed as a coherent capacity and utilization layer. It can reuse memory, reduce overprovisioning, enable pooled capacity, and support new AI memory-sharing experiments. It cannot replace HBM for hot accelerator data, and it will not help workloads that cannot tolerate higher latency. Its long-term value depends on hardware-software co-design: CXL devices, switches, OS page placement, telemetry, near-data processing, and workload-aware schedulers working together.
+
+## Sources
+
+[^S104]: Meta reuses old DDR4 server memory in new DDR5 servers using Vistara CXL 2.0 ASIC, Tom's Hardware, published 2026-06-30, exact day inferred from relative publication age, https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400
+[^S105]: Compute Express Link overview, Wikipedia, Crawled 2026-05, no stable page publish date listed, https://en.wikipedia.org/wiki/Compute_Express_Link
+[^S106]: Memory Sharing with CXL: Hardware and Software Design Approaches, arXiv, published 2024-04-04, https://arxiv.org/abs/2404.03245
+[^S107]: Octopus: Scalable Low-Cost CXL Memory Pooling, arXiv, published 2025-01-15, https://arxiv.org/abs/2501.09020
+[^S108]: CCCL: Node-Spanning GPU Collectives with CXL Memory Pooling, arXiv, published 2026-02-25, https://arxiv.org/abs/2602.22457
+[^S109]: Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing, arXiv, published 2025-09-03, https://arxiv.org/abs/2509.03377
+[^S110]: Meta will reuse DDR4 memory using CXL and avoid the RAM tax, TechRadar, published 2026-06-29, https://www.techradar.com/pro/near-zero-cost-memory-expansion-through-recycling-meta-will-reuse-terabytes-worth-of-ddr4-memory-using-cxl-tech-and-avoid-paying-the-ram-tax

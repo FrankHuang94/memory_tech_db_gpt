@@ -104,3 +104,15 @@ The investment rule is that materials intensity rises when process windows narro
 ## Database Links
 
 Read this file with [07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md](01-wafer-fab-equipment-vendors.md) for tool context, [07-semicap-ecosystem/02-substrate-interposer-osat.md](02-substrate-interposer-osat.md) for package/substrate constraints, [08-manufacturing-process/01-dram-process-flow.md](../08-manufacturing-process/01-dram-process-flow.md) for DRAM process modules, [08-manufacturing-process/02-3d-nand-process-flow.md](../08-manufacturing-process/02-3d-nand-process-flow.md) for NAND etch/deposition/CMP context, and [08-manufacturing-process/03-hbm-packaging-process-flow.md](../08-manufacturing-process/03-hbm-packaging-process-flow.md) for underfill, thermal, and TSV-package materials.
+
+## Sources
+
+[^S003]: SK hynix completes development of next-gen HBM4, Tom's Hardware, published 2025-09-12, https://www.tomshardware.com/pc-components/dram/sk-hynix-completes-development-of-hbm4-2-048-bit-interface-and-10-gt-s-speeds-promised
+[^S216]: Product Catalog, Entegris, Accessed 2026-07-06, no stable page publish date listed, https://www.entegris.com/en/home/products.html
+[^S217]: Chip Gear Firm Entegris Tops Targets On AI-Fueled Demand, Investor's Business Daily, published 2026-04-30, https://www.investors.com/news/technology/entegris-stock-entg-q1-2026-earnings/
+[^S218]: Entegris Stock Rises After Chip-Gear Maker's Q4 Beat, Guidance, Investor's Business Daily, published 2026-02-10, https://www.investors.com/news/technology/entegris-stock-entg-q4-2025-earnings/
+[^S219]: These overlooked stocks are a backdoor way to play the AI chip boom, MarketWatch, published 2026-01-31, https://www.marketwatch.com/story/these-overlooked-stocks-are-a-backdoor-way-to-play-the-ai-chip-boom-7157eab9
+[^S220]: JSR to build first Taiwan photoresist plant to co-develop advanced resists with TSMC, Tom's Hardware, published 2026-05-05, https://www.tomshardware.com/tech-industry/jsr-to-build-first-taiwan-photoresist-plant-to-co-develop-advanced-resists-with-tsmc
+[^S221]: Imec's new post-exposure bake method speeds up EUV chipmaking tools, Tom's Hardware, published 2026-02-27, https://www.tomshardware.com/tech-industry/semiconductors/imecs-new-post-exposure-bake-method-speeds-up-euv-chipmaking-tools-boosting-production-for-the-most-advanced-chips-20-percent-gain-in-photoresist-improvement-from-increased-oxygen-concentration
+[^S222]: Air Liquide Invests $233 Million in South Korea to Back SK Hynix's AI Chips Production, Wall Street Journal, published 2026-06, exact day not captured in accessed search result, https://www.wsj.com/tech/air-liquide-invests-233-million-in-south-korea-to-back-sk-hynixs-ai-chips-production-92fde1f1
+[^S223]: Air Liquide opens Taiwan factory as helium shortage tightens around chip makers, Tom's Hardware, published 2026-04, exact day not captured in accessed search result, https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers

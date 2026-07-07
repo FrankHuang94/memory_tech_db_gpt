@@ -132,3 +132,16 @@ The bull case is that AI has turned NAND from a chronically oversupplied commodi
 The bear case is that NAND remains NAND. High ASPs invite capacity. Enterprise SSD demand can be lumpy. QLC can pressure dollars per bit even when unit economics improve. Customer contracts may stabilize volume but cap upside, and the Kioxia-Sandisk JV still requires complex coordination between a Japanese manufacturer and a U.S. customer-facing flash company. If AI storage demand disappoints or supply expands too quickly, FY2026 profitability will look like a peak-cycle snapshot.
 
 For this database, Kioxia-Sandisk-WD is the flash-storage counterpart to the DRAM/HBM profiles. SK hynix, Samsung, and Micron define accelerator memory. Kioxia and Sandisk define the NAND layer beneath it. WD defines the HDD layer below that. The combined profile is essential because AI infrastructure is not only about fastest memory; it is about building a tiered data system where HBM, DRAM, NAND SSDs, and HDDs each sit at the correct point on the latency/capacity/cost curve.
+
+## Sources
+
+[^S172]: Consolidated Financial Results for the Fiscal Year Ended March 31, 2026, Kioxia Holdings, published 2026-05-15, https://ssl4.eir-parts.net/doc/285A/tdnet/2815628/00.pdf
+[^S173]: Regarding Extension of Yokkaichi Joint Venture Agreement, Kioxia Holdings, published 2026-01-30, https://ssl4.eir-parts.net/doc/285A/tdnet/2745765/00.pdf
+[^S174]: 3D Flash Memory BiCS FLASH product page, Kioxia, Accessed 2026-07-06, no stable page publish date listed, https://www.kioxia.com/en-jp/business/memory/bics.html
+[^S175]: LC9 Series enterprise SSD product page, Kioxia, Accessed 2026-07-06, no stable page publish date listed, https://www.kioxia.com/en-jp/business/ssd/enterprise-ssd/lc9.html
+[^S176]: CM9-V Series enterprise SSD product page, Kioxia, Accessed 2026-07-06, no stable page publish date listed, https://www.kioxia.com/en-jp/business/ssd/enterprise-ssd/cm9-v.html
+[^S177]: Yokkaichi Plant page, Kioxia, Accessed 2026-07-06, no stable page publish date listed, https://www.kioxia.com/en-jp/about/yokkaichi.html
+[^S178]: Kitakami Plant page, Kioxia, Accessed 2026-07-06, no stable page publish date listed, https://www.kioxia.com/en-jp/about/kitakami.html
+[^S179]: Sandisk Reports Fiscal Third Quarter 2026 Financial Results, Sandisk Investor Relations, published 2026-04-30, https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-third-quarter-2026-financial-results
+[^S180]: Kioxia and SanDisk start shipping BiCS9 3D NAND samples, Tom's Hardware, published 2025-07-27, https://www.tomshardware.com/pc-components/storage/kioxia-and-sandisk-start-shipping-bics9-3d-nand-samples-hybrid-design-combining-112-layer-bics5-with-modern-cba-and-ddr6-0-interface-for-higher-performance-and-cost-efficiency
+[^S181]: Kioxia discontinues 2D NAND products, last shipments to be made in 2028, Tom's Hardware, published 2026-03-31, https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life

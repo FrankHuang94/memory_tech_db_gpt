@@ -112,3 +112,15 @@ The semicap read-through is also important. A new memory may require unique depo
 First, watch whether CXL memory products recreate Optane's adoption problem. CXL lowers platform lock-in, but it still needs software tiering, page placement, monitoring, and failure handling. Second, watch whether NAND controllers continue absorbing latency-sensitive functions through larger SRAM, better firmware, and compression. Third, watch whether persistent-memory programming models survive without a dominant PMem DIMM product. If they do, Optane's software legacy will outlive the media.
 
 Finally, watch pricing cycles. Optane's business case was strongest when DRAM was expensive and NAND latency mattered. In AI-era servers, the comparable pressure point is HBM capacity and CXL memory expansion rather than storage latency. That is why the post-Optane opportunity has shifted from "storage-class memory" to "memory hierarchy management." The same gap remains; the industry just stopped believing that one proprietary media type would fill it.
+
+## Sources
+
+[^S105]: Compute Express Link overview, Wikipedia, Crawled 2026-05, no stable page publish date listed, https://en.wikipedia.org/wiki/Compute_Express_Link
+[^S136]: 3D XPoint overview and discontinuation history, Wikipedia, Crawled 2026-04, no stable page publish date listed, https://en.wikipedia.org/wiki/3D_XPoint
+[^S137]: Intel's New Memory Chips Are Faster, Store Way More Data, Wired, published 2015-07-28, https://www.wired.com/2015/07/3d-xpoint
+[^S138]: The Deceptive Simplicity of Intel's New Memory Tech, Wired, published 2015-07-29, https://www.wired.com/2015/07/deceptive-simplicity-intels-new-memory-tech
+[^S139]: Intel Optane P5800X remains fastest real-world SSD, TechRadar, published 2025-05-24, https://www.techradar.com/computing/cloud-computing/an-obscure-4-year-old-intel-ssd-is-still-the-worlds-fastest-despite-wd-black-sn8100s-outstanding-performance-in-benchmarks
+[^S140]: A Prompt Report on the Performance of Intel Optane DC Persistent Memory Module, arXiv, published 2020-02-13, https://arxiv.org/abs/2002.06018
+[^S141]: Lessons learned from the early performance evaluation of Intel Optane DC Persistent Memory in DBMS, arXiv, published 2020-05-15, https://arxiv.org/abs/2005.07658
+[^S142]: Writes Hurt: Lessons in Cache Design for Optane NVRAM, arXiv, published 2022-05-24, https://arxiv.org/abs/2205.14122
+[^S143]: IM Flash Technologies overview and Lehi fab sale, Wikipedia, Crawled 2026-04, no stable page publish date listed, https://en.wikipedia.org/wiki/IM_Flash_Technologies

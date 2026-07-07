@@ -103,3 +103,19 @@ From a vendor strategy standpoint, the easiest wedge is a transparent function t
 Computational storage is unlikely to become a broad replacement for ordinary NVMe SSDs. The simpler interpretation is that storage controllers and memory modules are becoming more active. Compression, integrity, and security offloads will look like ordinary controller features. CXL near-memory compute will likely appear first in hyperscale systems where the workload is known and the fleet operator can control software placement. HBM-PIM will remain a high-end accelerator feature unless programming models become portable.
 
 The strategic conclusion is that near-data compute is not a memory type. It is a placement doctrine. As memory and storage hierarchies become more expensive, the question shifts from "where is the data stored?" to "where should the cheapest correct operation run?" That question will increasingly shape controller ASICs, CXL modules, HBM base dies, DPUs, and storage software even if the label "computational storage" comes and goes.
+
+## Sources
+
+[^S105]: Compute Express Link overview, Wikipedia, Crawled 2026-05, no stable page publish date listed, https://en.wikipedia.org/wiki/Compute_Express_Link
+[^S109]: Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing, arXiv, published 2025-09-03, https://arxiv.org/abs/2509.03377
+[^S125]: ScaleFlux CSD 5320 compression SSD review summary, TechRadar, published 2025-09-21, https://www.techradar.com/pro/like-nothing-else-out-there-scaleflux-extraordinary-ssd-compresses-datasets-on-the-fly-and-delivers-equally-extraordinary-performance-says-review
+[^S126]: Samsung and AMD SmartSSD computational storage retrospective, TechRadar, published 2025-09-16, https://www.techradar.com/pro/samsung-and-amd-made-a-revolutionary-ssd-together-then-it-was-left-to-wither-in-the-shadows-and-nobody-knows-exactly-why
+[^S127]: Revisiting Computational Storage for Data Integrity and Security, arXiv, published 2025-04-12, https://arxiv.org/abs/2504.15293
+[^S128]: Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in Solid State Drives, arXiv, published 2026-01-24, https://arxiv.org/abs/2601.17633
+[^S129]: WIO: Upload-Enabled Computational Storage on CXL SSDs, arXiv, published 2026-04-02, https://arxiv.org/abs/2604.02442
+[^S130]: sNVMe-oF: Secure and Efficient Disaggregated Storage, arXiv, published 2025-10-21, https://arxiv.org/abs/2510.18756
+[^S131]: High Bandwidth Memory overview, including Samsung HBM-PIM summary, Wikipedia, Crawled 2026-05, no stable page publish date listed, https://en.wikipedia.org/wiki/High_Bandwidth_Memory
+[^S132]: Offloading to CXL-based Computational Memory, arXiv, published 2025-12-04, https://arxiv.org/abs/2512.04449
+[^S133]: Scalable Processing-Near-Memory for 1M-Token LLM Inference, arXiv, published 2025-10-31, https://arxiv.org/abs/2511.00321
+[^S134]: Low-overhead General-purpose Near-Data Processing in CXL Memory Expanders, arXiv, published 2024-04-30, https://arxiv.org/abs/2404.19381
+[^S135]: AME-PIM: Can Memory be Your Next Tensor Accelerator?, arXiv, published 2026-04-30, https://arxiv.org/abs/2604.27808

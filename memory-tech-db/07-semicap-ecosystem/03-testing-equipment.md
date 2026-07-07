@@ -110,3 +110,16 @@ The cleanest investment frame is that test is the tax paid to convert complexity
 ## Database Links
 
 This file connects [03-hbm-deep-dive/01-hbm-fundamentals.md](../03-hbm-deep-dive/01-hbm-fundamentals.md), [03-hbm-deep-dive/03-hbm-vendor-roadmaps.md](../03-hbm-deep-dive/03-hbm-vendor-roadmaps.md), [07-semicap-ecosystem/02-substrate-interposer-osat.md](02-substrate-interposer-osat.md), and [08-manufacturing-process/03-hbm-packaging-process-flow.md](../08-manufacturing-process/03-hbm-packaging-process-flow.md). The central link is simple: HBM supply is not real until it is tested, qualified, packaged, and accepted by the platform customer.
+
+## Sources
+
+[^S022]: NAND flash makers earned a record $46 billion in revenues over the first quarter of 2026, PC Gamer, published 2026-06-03, https://www.pcgamer.com/hardware/ssds/nand-flash-makers-earned-a-record-usd46-billion-in-revenues-over-the-first-quarter-of-2026-a-shocking-3-5-times-more-than-last-year/
+[^S059]: Micron enters high-volume production of HBM4 for Nvidia Vera Rubin, Tom's Hardware, published 2026-03-16, https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin
+[^S089]: Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, Tom's Hardware, published 2026-06-30, exact day inferred from relative publication age, https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns
+[^S203]: Products, KLA, Accessed 2026-07-06, no stable page publish date listed, https://www.kla.com/products
+[^S206]: Design Guidelines for In-line X-ray Inspection in Advanced Packaging Technology: A CoWoS Case Study, arXiv, published 2026-06-24, https://arxiv.org/abs/2606.26430
+[^S211]: Chip Testing Stock Sees More Red, Yet Wall Street Has High Profit Hopes, Investor's Business Daily, published 2026-06-09, https://www.investors.com/research/chip-robotics-company-semiconductor-memory-testing-teradyne-stock-ter/
+[^S212]: Teradyne's stock soars after this 'absolute blowout' forecast that was fueled by AI, MarketWatch, published 2026-02-03, https://www.marketwatch.com/story/teradynes-stock-soars-after-this-absolute-blowout-forecast-that-was-fueled-by-ai-2dfc3d8a
+[^S213]: Advantest overview, Wikipedia, Crawled 2025-11, no stable page publish date listed, https://en.wikipedia.org/wiki/Advantest
+[^S214]: Why This 60-Year-Old Chipmaker's Stock Just Hit A Record High, Investor's Business Daily, published 2026-05-15, https://www.investors.com/research/the-new-america/analog-devices-artificial-intelligence-data-centers/
+[^S215]: Sales of chip production equipment to reach $156 billion by 2027, Tom's Hardware, published 2026-01, exact day not captured in accessed search result, https://www.tomshardware.com/tech-industry/semiconductors/sales-of-chip-production-equipment-to-reach-usd156-billion-by-2027-china-taiwan-and-korea-lead-intense-demand

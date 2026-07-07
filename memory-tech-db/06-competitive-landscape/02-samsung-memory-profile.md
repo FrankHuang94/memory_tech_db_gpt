@@ -147,3 +147,13 @@ The bull case is that Samsung's scale, cleanroom capacity, 1c DRAM, 4nm base die
 The bear case is that Samsung is still catching up. HBM4 shipment announcements must be validated by customer ramps, not press releases. Foundry integration is valuable only if yields, thermal behavior, and customer confidence are competitive. Samsung's foundry business still faces TSMC pressure, Taylor must ramp, and the company must avoid spreading capital too thinly across memory, logic, display, and consumer businesses.
 
 For this database, Samsung is the integrated-memory counterweight to SK hynix. SK hynix defines focused HBM execution. Samsung defines the possibility that future HBM becomes a memory-plus-foundry-plus-packaging co-design market. Which model wins will shape not only DRAM share but also advanced-packaging demand, HBM base-die economics, and AI accelerator supply chains through the late 2020s.
+
+## Sources
+
+[^S151]: Samsung Electronics Announces Fourth Quarter and FY 2025 Results, Samsung Global Newsroom, published 2026-01-29, https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results
+[^S152]: Samsung Electronics begins mass production and shipment of HBM4, Samsung Newsroom Korea, published 2026-02-12, https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-%EC%97%85%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5%EC%9D%98-hbm4-%EC%96%91%EC%82%B0-%EC%B6%9C%ED%95%98
+[^S153]: Samsung HBM4 product page, Samsung Semiconductor Global, Accessed 2026-07-06, no stable page publish date listed, https://semiconductor.samsung.com/dram/hbm/hbm4/
+[^S154]: Samsung Electronics Announces Third Quarter 2025 Results, Samsung Global Newsroom, published 2025-10-30, https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2025-results
+[^S155]: Samsung shows first HBM5 mockup with Heat Path Block cooling, Tom's Hardware, published 2026-06-03, https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling
+[^S156]: South Korea unveils $520 billion Samsung/SK hynix memory investment plan, Tom's Hardware, published 2026-06-29, https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support
+[^S157]: Samsung inches closer to opening Taylor Texas chip factory, MySA, published 2026-04-30, https://www.mysanantonio.com/business/article/samsung-chip-factory-taylor-texas-22232085.php

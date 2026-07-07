@@ -1,51 +1,51 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 115,836 words**
+**Running database total: 120,439 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
-| 2026-07-04 | INDEX.md | Project-wide file map, status table, initial total. | 87 | 87 | Draft |
-| 2026-07-04 | 01-overview/01-memory-storage-fundamentals.md | SRAM, DRAM, NAND, NOR, emerging memories, hierarchy table, Mermaid diagrams, citations. | 3,201 | 4,486 | Draft |
-| 2026-07-04 | 01-overview/02-market-size-segmentation.md | TAM/SAM, DRAM/HBM/NAND share, pricing cycle history, 2027-2028 shortage outlook, Mermaid visuals. | 2,629 | 7,320 | Draft |
-| 2026-07-04 | README.md | Project overview, repository map, research method, count discipline, quality bar. | 844 | 8,164 | Draft |
-| 2026-07-04 | 02-history/01-dram-evolution.md | SDRAM through DDR5, LPDDR/GDDR/HBM branches, node naming by vendor, late-2020s roadmap. | 3,001 | 11,464 | Draft |
-| 2026-07-04 | 02-history/02-nand-evolution.md | Planar to 3D NAND, SLC/MLC/TLC/QLC/PLC tradeoffs, layer-count growth, controller boundary, semicap intensity. | 3,020 | 14,655 | Draft |
-| 2026-07-04 | 02-history/03-packaging-evolution.md | Wire bond, flip chip, TSV, 2.5D interposers, EMIB, hybrid bonding, chiplets, packaging bottlenecks. | 3,258 | 18,158 | Draft |
-| 2026-07-04 | 03-hbm-deep-dive/01-hbm-fundamentals.md | HBM stack anatomy, base die, TSV/channel architecture, bandwidth-per-watt evolution, stack yield, interposer bottleneck, qualification economics. | 3,171 | 21,433 | Draft |
-| 2026-07-04 | 03-hbm-deep-dive/02-hbm-generations.md | HBM1-HBM5 generation table, production timeline, HBM2E/HBM3E bridges, HBM4/SPHBM4 integration, HBM5 thermal roadmap. | 3,511 | 25,040 | Draft |
-| 2026-07-04 | 03-hbm-deep-dive/03-hbm-vendor-roadmaps.md | SK hynix, Samsung, and Micron HBM fab, packaging, base-die, qualification, and capacity roadmap with cross-vendor Gantt. | 4,594 | 29,999 | Draft |
-| 2026-07-04 | 03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md | HBM patent/IP landscape covering TSV, base die, scheduling, thermal packaging, trade secrets, and representative Samsung/SK hynix/Micron families. | 3,583 | 33,823 | Draft |
-| 2026-07-04 | 03-hbm-deep-dive/05-hbm-customer-ecosystem.md | NVIDIA Rubin/Blackwell, AMD Instinct, Google Ironwood TPU, custom HBM base-die models, allocation mechanics, and workload memory economics. | 3,002 | 37,081 | Draft |
-| 2026-07-04 | 04-hbf-emerging-tech/01-hbf-overview.md | High Bandwidth Flash overview covering NAND-between-HBM-and-SSD architecture, inference TCO, software requirements, vendors, adoption risks. | 3,007 | 40,224 | Draft |
-| 2026-07-04 | 04-hbf-emerging-tech/02-hbf-standardization.md | HBF standardization through OCP, SanDisk/SK hynix MoU, BiCS/CBA context, advisory board, standards checklist, and sample-to-deployment path. | 3,042 | 43,360 | Draft |
-| 2026-07-05 | 04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md | HBF/HBM/CXL comparison covering bandwidth, latency, capacity, software control, deployment archetypes, workload fit, and semicap implications. | 3,144 | 46,680 | Draft |
-| 2026-07-05 | 05-other-emerging-memory/01-cxl-memory-pooling.md | CXL expansion and pooling architecture, Meta Vistara, Octopus, CCCL, near-data processing, operational risks, and deployment economics. | 2,583 | 49,321 | Draft |
-| 2026-07-05 | 05-other-emerging-memory/02-mram-reram-pcm.md | MRAM, ReRAM, and PCM technology mechanisms, product status, integration economics, qualification gates, and failure modes. | 2,881 | 52,533 | Draft |
-| 2026-07-05 | 05-other-emerging-memory/03-computational-storage-near-memory.md | Computational storage, SmartSSD and ScaleFlux, SSD-side NDP, CXL near-memory compute, HBM-PIM, workload fit, and deployment barriers. | 2,733 | 55,514 | Draft |
-| 2026-07-05 | 05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md | 3D XPoint and Optane commercialization, product segmentation, PMem performance, discontinuation causes, counterfactuals, and memory-tier lessons. | 2,788 | 58,513 | Draft |
-| 2026-07-05 | 06-competitive-landscape/01-sk-hynix-profile.md | SK hynix AI memory profile covering HBM4, FY2025 results, manufacturing footprint, customer ecosystem, competitive positioning, visuals, and videos. | 3,056 | 61,760 | Draft |
-| 2026-07-06 | 06-competitive-landscape/02-samsung-memory-profile.md | Samsung memory profile covering HBM4, FY2025 results, foundry/base-die integration, Pyeongtaek/Taylor capacity, NAND for inference, visuals, and videos. | 3,187 | 65,127 | Draft |
-| 2026-07-06 | 06-competitive-landscape/03-micron-profile.md | Micron profile covering HBM4, SOCAMM2, Gen6 SSDs, Q3 FY2026 results, U.S. expansion, customer agreements, visuals, and videos. | 3,112 | 68,598 | Draft |
-| 2026-07-06 | 06-competitive-landscape/04-kioxia-sandisk-wd-profile.md | Kioxia/Sandisk/WD profile covering NAND JV extension, BiCS roadmap, AI enterprise SSDs, FY2026 results, WD separation, visuals, and videos. | 2,842 | 71,698 | Draft |
-| 2026-07-06 | 06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md | CXMT/YMTC profile covering DRAM/NAND substitution, export controls, domestic tools, HBM gaps, visuals, and semicap implications. | 2,582 | 74,600 | Draft |
-| 2026-07-06 | 06-competitive-landscape/06-market-share-tracker.md | Market-share tracker covering timestamped DRAM, HBM, NAND, China substitution, shortage duration, KPI watchlist, and update discipline. | 1,576 | 76,243 | Draft |
-| 2026-07-06 | 07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md | WFE vendor map covering ASML, Applied Materials, Lam Research, Tokyo Electron, KLA, memory bottlenecks, export controls, and KPI watchlist. | 2,866 | 79,356 | Draft |
-| 2026-07-06 | 07-semicap-ecosystem/02-substrate-interposer-osat.md | OSAT and substrate map covering Amkor, ASE, CoWoS, EMIB, interposers, substrates, package inspection, and AI capacity bottlenecks. | 2,568 | 82,099 | Draft |
-| 2026-07-06 | 07-semicap-ecosystem/03-testing-equipment.md | Testing-equipment map covering Advantest, Teradyne, HBM known-good-die flow, package/system test, burn-in, and SSD validation. | 2,508 | 84,765 | Draft |
-| 2026-07-06 | 07-semicap-ecosystem/04-materials-chemicals.md | Materials map covering photoresists, MOR, CMP, cleans, gases, delivery/purity, underfill, thermal, and packaging materials. | 2,427 | 87,423 | Draft |
-| 2026-07-06 | 07-semicap-ecosystem/05-eda-design-tools.md | EDA map covering Synopsys, Cadence, Siemens, HBM IP, chiplet/package signoff, UCIe memory, thermal, and AI-assisted flows. | 2,450 | 90,104 | Draft |
-| 2026-07-06 | 08-manufacturing-process/01-dram-process-flow.md | DRAM process flow covering isolation, access transistor, storage capacitor, bitline/sense amp, BEOL, wafer sort, repair, and yield learning. | 3,112 | 93,362 | Draft |
-| 2026-07-06 | 08-manufacturing-process/02-3d-nand-process-flow.md | 3D NAND process flow covering film stacks, channel-hole etch, CBA/CUA, deck splitting, staircase contacts, wafer sort, and controller coupling. | 3,098 | 96,542 | Draft |
-| 2026-07-06 | 08-manufacturing-process/03-hbm-packaging-process-flow.md | HBM packaging process flow covering KGD, TSV reveal, thinning, microbump bonding, stacking, underfill, base die, interposer attach, inspection, and qualification. | 3,037 | 99,615 | Draft |
-| 2026-07-06 | 09-research-frontier/01-academic-industry-research.md | Research-frontier map covering ISSCC/IEDM/IMW, 3D DRAM, HBM thermal/package co-design, NAND PIM, CXL tiered memory, IMEC, KAIST, Stanford, and research-to-product scoring. | 2,575 | 102,415 | Draft |
-| 2026-07-07 | 09-research-frontier/02-hybrid-bonding-advanced-packaging.md | Hybrid bonding and advanced packaging research covering process flow, wafer-to-wafer versus die-to-wafer, memory adoption, EDA, Intel/TSMC competition, semicap pull-through, and failure modes. | 2,502 | 105,163 | Draft |
-| 2026-07-07 | 09-research-frontier/03-power-thermal-challenges.md | Power and thermal challenges covering HBM D2D hotspots, package guardbands, DRAM refresh feedback, CXL power, AI SSD cooling, direct-to-chip liquid cooling, HBM-PIM energy, and fleet telemetry. | 2,551 | 107,858 | Draft |
-| 2026-07-07 | 10-macro-drivers/01-ai-datacenter-demand.md | AI datacenter demand covering hyperscaler capex, Stargate, Blackwell/Vera Rubin memory attach, HBM reservation behavior, inference tiering, power/cooling limits, and KPI watchlist. | 2,565 | 110,542 | Draft |
-| 2026-07-07 | 10-macro-drivers/02-supply-demand-cycle.md | Supply-demand cycle covering split AI/consumer pricing, HBM reservations, strategic agreements, supply lag, NAND elasticity, substitution, and oversupply scenarios. | 2,545 | 113,153 | Draft |
-| 2026-07-07 | 10-macro-drivers/03-geopolitics-export-controls.md | Geopolitics and export controls covering HBM limits, South Korean China fabs, CXMT/YMTC substitution, China materials retaliation, allied chokepoints, and vendor implications. | 2,537 | 115,836 | Draft |
+| 2026-07-04 | INDEX.md | Project-wide file map, status table, initial total. | 829 | 87 | Reviewed |
+| 2026-07-04 | 01-overview/01-memory-storage-fundamentals.md | SRAM, DRAM, NAND, NOR, emerging memories, hierarchy table, Mermaid diagrams, citations. | 3,201 | 4,486 | Reviewed |
+| 2026-07-04 | 01-overview/02-market-size-segmentation.md | TAM/SAM, DRAM/HBM/NAND share, pricing cycle history, 2027-2028 shortage outlook, Mermaid visuals. | 2,629 | 7,320 | Reviewed |
+| 2026-07-04 | README.md | Project overview, repository map, research method, count discipline, quality bar. | 844 | 8,164 | Reviewed |
+| 2026-07-04 | 02-history/01-dram-evolution.md | SDRAM through DDR5, LPDDR/GDDR/HBM branches, node naming by vendor, late-2020s roadmap. | 3,001 | 11,464 | Reviewed |
+| 2026-07-04 | 02-history/02-nand-evolution.md | Planar to 3D NAND, SLC/MLC/TLC/QLC/PLC tradeoffs, layer-count growth, controller boundary, semicap intensity. | 3,020 | 14,655 | Reviewed |
+| 2026-07-04 | 02-history/03-packaging-evolution.md | Wire bond, flip chip, TSV, 2.5D interposers, EMIB, hybrid bonding, chiplets, packaging bottlenecks. | 3,258 | 18,158 | Reviewed |
+| 2026-07-04 | 03-hbm-deep-dive/01-hbm-fundamentals.md | HBM stack anatomy, base die, TSV/channel architecture, bandwidth-per-watt evolution, stack yield, interposer bottleneck, qualification economics. | 3,348 | 21,433 | Reviewed |
+| 2026-07-04 | 03-hbm-deep-dive/02-hbm-generations.md | HBM1-HBM5 generation table, production timeline, HBM2E/HBM3E bridges, HBM4/SPHBM4 integration, HBM5 thermal roadmap. | 3,651 | 25,040 | Reviewed |
+| 2026-07-04 | 03-hbm-deep-dive/03-hbm-vendor-roadmaps.md | SK hynix, Samsung, and Micron HBM fab, packaging, base-die, qualification, and capacity roadmap with cross-vendor Gantt. | 4,913 | 29,999 | Reviewed |
+| 2026-07-04 | 03-hbm-deep-dive/04-hbm-key-tech-patents-ip.md | HBM patent/IP landscape covering TSV, base die, scheduling, thermal packaging, trade secrets, and representative Samsung/SK hynix/Micron families. | 3,917 | 33,823 | Reviewed |
+| 2026-07-04 | 03-hbm-deep-dive/05-hbm-customer-ecosystem.md | NVIDIA Rubin/Blackwell, AMD Instinct, Google Ironwood TPU, custom HBM base-die models, allocation mechanics, and workload memory economics. | 3,281 | 37,081 | Reviewed |
+| 2026-07-04 | 04-hbf-emerging-tech/01-hbf-overview.md | High Bandwidth Flash overview covering NAND-between-HBM-and-SSD architecture, inference TCO, software requirements, vendors, adoption risks. | 3,133 | 40,224 | Reviewed |
+| 2026-07-04 | 04-hbf-emerging-tech/02-hbf-standardization.md | HBF standardization through OCP, SanDisk/SK hynix MoU, BiCS/CBA context, advisory board, standards checklist, and sample-to-deployment path. | 3,239 | 43,360 | Reviewed |
+| 2026-07-05 | 04-hbf-emerging-tech/03-hbf-vs-hbm-vs-cxl.md | HBF/HBM/CXL comparison covering bandwidth, latency, capacity, software control, deployment archetypes, workload fit, and semicap implications. | 3,462 | 46,680 | Reviewed |
+| 2026-07-05 | 05-other-emerging-memory/01-cxl-memory-pooling.md | CXL expansion and pooling architecture, Meta Vistara, Octopus, CCCL, near-data processing, operational risks, and deployment economics. | 2,700 | 49,321 | Reviewed |
+| 2026-07-05 | 05-other-emerging-memory/02-mram-reram-pcm.md | MRAM, ReRAM, and PCM technology mechanisms, product status, integration economics, qualification gates, and failure modes. | 3,100 | 52,533 | Reviewed |
+| 2026-07-05 | 05-other-emerging-memory/03-computational-storage-near-memory.md | Computational storage, SmartSSD and ScaleFlux, SSD-side NDP, CXL near-memory compute, HBM-PIM, workload fit, and deployment barriers. | 2,910 | 55,514 | Reviewed |
+| 2026-07-05 | 05-other-emerging-memory/04-3d-xpoint-optane-postmortem.md | 3D XPoint and Optane commercialization, product segmentation, PMem performance, discontinuation causes, counterfactuals, and memory-tier lessons. | 2,933 | 58,513 | Reviewed |
+| 2026-07-05 | 06-competitive-landscape/01-sk-hynix-profile.md | SK hynix AI memory profile covering HBM4, FY2025 results, manufacturing footprint, customer ecosystem, competitive positioning, visuals, and videos. | 3,176 | 61,760 | Reviewed |
+| 2026-07-06 | 06-competitive-landscape/02-samsung-memory-profile.md | Samsung memory profile covering HBM4, FY2025 results, foundry/base-die integration, Pyeongtaek/Taylor capacity, NAND for inference, visuals, and videos. | 3,298 | 65,127 | Reviewed |
+| 2026-07-06 | 06-competitive-landscape/03-micron-profile.md | Micron profile covering HBM4, SOCAMM2, Gen6 SSDs, Q3 FY2026 results, U.S. expansion, customer agreements, visuals, and videos. | 3,358 | 68,598 | Reviewed |
+| 2026-07-06 | 06-competitive-landscape/04-kioxia-sandisk-wd-profile.md | Kioxia/Sandisk/WD profile covering NAND JV extension, BiCS roadmap, AI enterprise SSDs, FY2026 results, WD separation, visuals, and videos. | 3,002 | 71,698 | Reviewed |
+| 2026-07-06 | 06-competitive-landscape/05-chinese-vendors-cxmt-yangtze.md | CXMT/YMTC profile covering DRAM/NAND substitution, export controls, domestic tools, HBM gaps, visuals, and semicap implications. | 2,802 | 74,600 | Reviewed |
+| 2026-07-06 | 06-competitive-landscape/06-market-share-tracker.md | Market-share tracker covering timestamped DRAM, HBM, NAND, China substitution, shortage duration, KPI watchlist, and update discipline. | 1,770 | 76,243 | Reviewed |
+| 2026-07-06 | 07-semicap-ecosystem/01-wafer-fab-equipment-vendors.md | WFE vendor map covering ASML, Applied Materials, Lam Research, Tokyo Electron, KLA, memory bottlenecks, export controls, and KPI watchlist. | 3,152 | 79,356 | Reviewed |
+| 2026-07-06 | 07-semicap-ecosystem/02-substrate-interposer-osat.md | OSAT and substrate map covering Amkor, ASE, CoWoS, EMIB, interposers, substrates, package inspection, and AI capacity bottlenecks. | 2,779 | 82,099 | Reviewed |
+| 2026-07-06 | 07-semicap-ecosystem/03-testing-equipment.md | Testing-equipment map covering Advantest, Teradyne, HBM known-good-die flow, package/system test, burn-in, and SSD validation. | 2,697 | 84,765 | Reviewed |
+| 2026-07-06 | 07-semicap-ecosystem/04-materials-chemicals.md | Materials map covering photoresists, MOR, CMP, cleans, gases, delivery/purity, underfill, thermal, and packaging materials. | 2,596 | 87,423 | Reviewed |
+| 2026-07-06 | 07-semicap-ecosystem/05-eda-design-tools.md | EDA map covering Synopsys, Cadence, Siemens, HBM IP, chiplet/package signoff, UCIe memory, thermal, and AI-assisted flows. | 2,595 | 90,104 | Reviewed |
+| 2026-07-06 | 08-manufacturing-process/01-dram-process-flow.md | DRAM process flow covering isolation, access transistor, storage capacitor, bitline/sense amp, BEOL, wafer sort, repair, and yield learning. | 3,112 | 93,362 | Reviewed |
+| 2026-07-06 | 08-manufacturing-process/02-3d-nand-process-flow.md | 3D NAND process flow covering film stacks, channel-hole etch, CBA/CUA, deck splitting, staircase contacts, wafer sort, and controller coupling. | 3,098 | 96,542 | Reviewed |
+| 2026-07-06 | 08-manufacturing-process/03-hbm-packaging-process-flow.md | HBM packaging process flow covering KGD, TSV reveal, thinning, microbump bonding, stacking, underfill, base die, interposer attach, inspection, and qualification. | 3,037 | 99,615 | Reviewed |
+| 2026-07-06 | 09-research-frontier/01-academic-industry-research.md | Research-frontier map covering ISSCC/IEDM/IMW, 3D DRAM, HBM thermal/package co-design, NAND PIM, CXL tiered memory, IMEC, KAIST, Stanford, and research-to-product scoring. | 2,575 | 102,415 | Reviewed |
+| 2026-07-07 | 09-research-frontier/02-hybrid-bonding-advanced-packaging.md | Hybrid bonding and advanced packaging research covering process flow, wafer-to-wafer versus die-to-wafer, memory adoption, EDA, Intel/TSMC competition, semicap pull-through, and failure modes. | 2,502 | 105,163 | Reviewed |
+| 2026-07-07 | 09-research-frontier/03-power-thermal-challenges.md | Power and thermal challenges covering HBM D2D hotspots, package guardbands, DRAM refresh feedback, CXL power, AI SSD cooling, direct-to-chip liquid cooling, HBM-PIM energy, and fleet telemetry. | 2,551 | 107,858 | Reviewed |
+| 2026-07-07 | 10-macro-drivers/01-ai-datacenter-demand.md | AI datacenter demand covering hyperscaler capex, Stargate, Blackwell/Vera Rubin memory attach, HBM reservation behavior, inference tiering, power/cooling limits, and KPI watchlist. | 2,565 | 110,542 | Reviewed |
+| 2026-07-07 | 10-macro-drivers/02-supply-demand-cycle.md | Supply-demand cycle covering split AI/consumer pricing, HBM reservations, strategic agreements, supply lag, NAND elasticity, substitution, and oversupply scenarios. | 2,545 | 113,153 | Reviewed |
+| 2026-07-07 | 10-macro-drivers/03-geopolitics-export-controls.md | Geopolitics and export controls covering HBM limits, South Korean China fabs, CXMT/YMTC substitution, China materials retaliation, allied chokepoints, and vendor implications. | 2,537 | 120,439 | Reviewed |
 
 ## Resume State
 
-All planned files are drafted. Next pass: review files for source freshness, duplicate-content pruning, diagram rendering, and status upgrades from `Draft` to `Reviewed`.
+QA/review pass completed 2026-07-07. All planned files are marked `Reviewed`; checks covered word counts, local footnote definitions, master source IDs, Mermaid coverage, and vendor visuals.
 
-Known work remaining before review pass: no planned draft files remain; perform review/QA before marking files `Reviewed`.
+Known work remaining after review pass: optional future maintenance only, mainly source-refresh updates as 2026 memory and semicap data changes.

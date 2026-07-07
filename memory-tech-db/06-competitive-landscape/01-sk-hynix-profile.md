@@ -140,3 +140,13 @@ The bear case is also clear. Memory is cyclical. HBM supply eventually grows. NA
 The first watchpoint is HBM4 ramp yield, not headline speed. The second is the timing of M15X and Cheongju/Indiana packaging capacity. The third is whether custom HBM becomes a paid premium or only a customer accommodation. The fourth is the shape of NAND recovery through QLC eSSD and Solidigm. The fifth is whether 1c DRAM products such as LPDDR6 and high-capacity DDR5 modules translate into non-HBM profit resilience.
 
 SK hynix is therefore best viewed as the AI-memory execution benchmark. Samsung may have broader vertical scope, and Micron may have stronger U.S. manufacturing leverage, but SK hynix is the current pure-play HBM profit case. For this database, it is the vendor profile that anchors the link between memory-device physics, packaging yield, customer qualification, and the macro AI capex cycle.
+
+## Sources
+
+[^S144]: SK hynix Announces FY25 Financial Results, SK hynix Newsroom, published 2026-01-28, https://news.skhynix.com/sk-hynix-announces-fy25-financial-results/
+[^S145]: SK hynix to Showcase AI Memory Leadership at NVIDIA GTC 2026, SK hynix Newsroom, published 2026-03-16, https://news.skhynix.com/skhynix-at-gtc2026/
+[^S146]: SK hynix Showcases Next-Generation AI Memory Innovations at CES 2026, SK hynix Newsroom, published 2026-01-05, https://news.skhynix.com/sk-hynix-showcases-next-generation-ai-memory-innovations-at-ces-2026/
+[^S147]: SK hynix Develops 1c LPDDR6, 6th-Generation 10nm-Class DRAM, SK hynix Newsroom, published 2026-03-10, https://news.skhynix.com/1c-lpddr6-development-2026/
+[^S148]: SK hynix Begins Supply of 321-layer QLC NAND cSSD, SK hynix Newsroom, published 2026-04-08, https://news.skhynix.com/begin-supply-321-layer-qlc-nand-cssd/
+[^S149]: SK hynix shows 16-Hi HBM4 memory for AI accelerators, Tom's Hardware, published 2026-02, exact day not captured in accessed search result, https://www.tomshardware.com/tech-industry/sk-hynix-shows-16-hi-hbm4-memory-for-ai-accelerators-48-gb-at-10-gt-s-over-a-2-048-interface
+[^S150]: SK hynix to invest $712.5 billion in South Korean operations, Tom's Hardware, published 2026-07-02, https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed
