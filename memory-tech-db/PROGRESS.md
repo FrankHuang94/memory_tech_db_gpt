@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 113,153 words**
+**Running database total: 115,836 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -42,9 +42,10 @@
 | 2026-07-07 | 09-research-frontier/03-power-thermal-challenges.md | Power and thermal challenges covering HBM D2D hotspots, package guardbands, DRAM refresh feedback, CXL power, AI SSD cooling, direct-to-chip liquid cooling, HBM-PIM energy, and fleet telemetry. | 2,551 | 107,858 | Draft |
 | 2026-07-07 | 10-macro-drivers/01-ai-datacenter-demand.md | AI datacenter demand covering hyperscaler capex, Stargate, Blackwell/Vera Rubin memory attach, HBM reservation behavior, inference tiering, power/cooling limits, and KPI watchlist. | 2,565 | 110,542 | Draft |
 | 2026-07-07 | 10-macro-drivers/02-supply-demand-cycle.md | Supply-demand cycle covering split AI/consumer pricing, HBM reservations, strategic agreements, supply lag, NAND elasticity, substitution, and oversupply scenarios. | 2,545 | 113,153 | Draft |
+| 2026-07-07 | 10-macro-drivers/03-geopolitics-export-controls.md | Geopolitics and export controls covering HBM limits, South Korean China fabs, CXMT/YMTC substitution, China materials retaliation, allied chokepoints, and vendor implications. | 2,537 | 115,836 | Draft |
 
 ## Resume State
 
-Next file to begin: `10-macro-drivers/03-geopolitics-export-controls.md`.
+All planned files are drafted. Next pass: review files for source freshness, duplicate-content pruning, diagram rendering, and status upgrades from `Draft` to `Reviewed`.
 
-Known work remaining before review pass: continue through the remaining macro-driver files, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: no planned draft files remain; perform review/QA before marking files `Reviewed`.

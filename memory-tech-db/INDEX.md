@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 113,153**
+**TOTAL WORD COUNT: 115,836**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -43,8 +43,8 @@ This index tracks every planned Markdown file in the database. Status values are
 | [09-research-frontier/03-power-thermal-challenges.md](09-research-frontier/03-power-thermal-challenges.md) | 2,500 | Draft | 2,551 | HBM hotspots, package thermal models, CXL/NAND power, liquid cooling, PIM energy, fleet telemetry. |
 | [10-macro-drivers/01-ai-datacenter-demand.md](10-macro-drivers/01-ai-datacenter-demand.md) | 2,500 | Draft | 2,565 | AI datacenter capex, HBM attach, inference tiers, power constraints, and KPI watchlist. |
 | [10-macro-drivers/02-supply-demand-cycle.md](10-macro-drivers/02-supply-demand-cycle.md) | 2,500 | Draft | 2,545 | Split AI/consumer memory cycle, pricing, supply lag, NAND risk, and oversupply scenarios. |
-| [10-macro-drivers/03-geopolitics-export-controls.md](10-macro-drivers/03-geopolitics-export-controls.md) | 2,500 | Not Started | 0 | Export controls, China substitution, fab geography. |
+| [10-macro-drivers/03-geopolitics-export-controls.md](10-macro-drivers/03-geopolitics-export-controls.md) | 2,500 | Draft | 2,537 | HBM/export controls, China fabs, CXMT/YMTC substitution, materials retaliation, and allied chokepoints. |
 
 ## Build Notes
 
-The first completed draft establishes the terminology and hierarchy needed by later modules. Future files should avoid restating the cell-level explanations and instead cross-link to [01-overview/01-memory-storage-fundamentals.md](01-overview/01-memory-storage-fundamentals.md) when they need baseline definitions.
+All planned files are now drafted above the original word-count targets. Future review passes should prioritize source freshness, duplicate-content pruning, and status upgrades from `Draft` to `Reviewed`.
