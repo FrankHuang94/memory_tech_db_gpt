@@ -1,6 +1,6 @@
 # Memory Technology and Semicap Database Index
 
-**TOTAL WORD COUNT: 107,858**
+**TOTAL WORD COUNT: 110,542**
 
 This index tracks every planned Markdown file in the database. Status values are `Not Started`, `Draft`, and `Reviewed`. Word counts are measured with `wc -w` against the current committed text and should be refreshed after each file-level update.
 
@@ -41,7 +41,7 @@ This index tracks every planned Markdown file in the database. Status values are
 | [09-research-frontier/01-academic-industry-research.md](09-research-frontier/01-academic-industry-research.md) | 2,500 | Draft | 2,575 | ISSCC/IEDM/IMW map, 3D DRAM, HBM thermals, NAND PIM, CXL, IMEC/KAIST/Stanford. |
 | [09-research-frontier/02-hybrid-bonding-advanced-packaging.md](09-research-frontier/02-hybrid-bonding-advanced-packaging.md) | 2,500 | Draft | 2,502 | Hybrid bonding process flow, W2W/D2W tradeoffs, HBM/NAND adoption, Intel/TSMC packaging race. |
 | [09-research-frontier/03-power-thermal-challenges.md](09-research-frontier/03-power-thermal-challenges.md) | 2,500 | Draft | 2,551 | HBM hotspots, package thermal models, CXL/NAND power, liquid cooling, PIM energy, fleet telemetry. |
-| [10-macro-drivers/01-ai-datacenter-demand.md](10-macro-drivers/01-ai-datacenter-demand.md) | 2,500 | Not Started | 0 | AI datacenter demand and memory attach. |
+| [10-macro-drivers/01-ai-datacenter-demand.md](10-macro-drivers/01-ai-datacenter-demand.md) | 2,500 | Draft | 2,565 | AI datacenter capex, HBM attach, inference tiers, power constraints, and KPI watchlist. |
 | [10-macro-drivers/02-supply-demand-cycle.md](10-macro-drivers/02-supply-demand-cycle.md) | 2,500 | Not Started | 0 | Memory cycle mechanics and current shortage. |
 | [10-macro-drivers/03-geopolitics-export-controls.md](10-macro-drivers/03-geopolitics-export-controls.md) | 2,500 | Not Started | 0 | Export controls, China substitution, fab geography. |
 

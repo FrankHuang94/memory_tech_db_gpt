@@ -1,6 +1,6 @@
 # Memory Technology Database Progress Log
 
-**Running database total: 107,858 words**
+**Running database total: 110,542 words**
 
 | Date | File | Subsection / Work Completed | File Words | Running Total | Status |
 |---|---|---|---:|---:|---|
@@ -40,9 +40,10 @@
 | 2026-07-06 | 09-research-frontier/01-academic-industry-research.md | Research-frontier map covering ISSCC/IEDM/IMW, 3D DRAM, HBM thermal/package co-design, NAND PIM, CXL tiered memory, IMEC, KAIST, Stanford, and research-to-product scoring. | 2,575 | 102,415 | Draft |
 | 2026-07-07 | 09-research-frontier/02-hybrid-bonding-advanced-packaging.md | Hybrid bonding and advanced packaging research covering process flow, wafer-to-wafer versus die-to-wafer, memory adoption, EDA, Intel/TSMC competition, semicap pull-through, and failure modes. | 2,502 | 105,163 | Draft |
 | 2026-07-07 | 09-research-frontier/03-power-thermal-challenges.md | Power and thermal challenges covering HBM D2D hotspots, package guardbands, DRAM refresh feedback, CXL power, AI SSD cooling, direct-to-chip liquid cooling, HBM-PIM energy, and fleet telemetry. | 2,551 | 107,858 | Draft |
+| 2026-07-07 | 10-macro-drivers/01-ai-datacenter-demand.md | AI datacenter demand covering hyperscaler capex, Stargate, Blackwell/Vera Rubin memory attach, HBM reservation behavior, inference tiering, power/cooling limits, and KPI watchlist. | 2,565 | 110,542 | Draft |
 
 ## Resume State
 
-Next file to begin: `10-macro-drivers/01-ai-datacenter-demand.md`.
+Next file to begin: `10-macro-drivers/02-supply-demand-cycle.md`.
 
-Known work remaining before review pass: continue through the remaining research-frontier and macro-driver files, and refresh `SOURCES.md` after each new factual source is introduced.
+Known work remaining before review pass: continue through the remaining macro-driver files, and refresh `SOURCES.md` after each new factual source is introduced.
